@@ -88,7 +88,6 @@
 ||dsp*.youdao.com^
 ||pussl*.com^
 ||putrr*.com^
-||ad*.360.cn^
 ||t*.a.market.xiaomi.com^
 ||ad*.bigmir.net^
 ||log*.molitv.cn^
@@ -991,6 +990,8 @@
 ||tf.360.cn^
 ||act.commercial.shouji.360.cn^
 ||gamebox.360.cn^
+||adapi.shouji.360.cn^
+||adapter.shouji.360.cn^
 ||agd.p.360.cn^
 ||agd2.p.360.cn^
 ||api.shuaji.360.cn^
@@ -15791,7 +15792,6 @@
 ||immunical.club^
 ||imneinei.com^
 ||imonomy.com^
-||imop.com^
 ||imounsos.com^
 ||impact-ad.jp^
 ||impactradius-event.com^
@@ -17895,7 +17895,7 @@
 ||kugo.cc^
 ||exceptionlog.kugou.com^
 ||serveraddr.service.kugou.com^
-||bssdlbig.kugou.com^
+||adsfile.bssdlbig.kugou.com^
 ||bssdl.kugou.com^
 ||fanxing.kugou.com^
 ||d.kugou.com^
@@ -17909,7 +17909,6 @@
 ||log.web.kugou.com^
 ||minidcsc.kugou.com^
 ||mo.kugou.com^
-||mobilelog.kugou.com^
 ||msg.mobile.kugou.com^
 ||mvads.kugou.com^
 ||p.kugou.com^
@@ -30720,7 +30719,8 @@
 ||c.tvsou.com^
 ||b.tvsou.com^
 ||tvsxjbuo.com^
-||tvzhe.com^
+||mc.tvzhe.com^
+||md.tvzhe.com^
 ||tw.cx^
 ||twackle.com^
 ||twb98.com^
