@@ -36,6 +36,7 @@
 @@||ads.askgamblers.com^$popup
 @@||ads.com^$popup
 @@||ads.fuckingmachines.com^$image,~third-party
+@@||ads.instacart.com^$popup
 @@||ads.microsoft.com^$popup
 @@||ads.nipr.ac.jp^$~third-party
 @@||ads.pinterest.com^$popup
@@ -441,6 +442,7 @@
 @@||xidian.edu.cn^$generichide
 @@||xilinjie.com^$generichide
 @@||xiuren.org^$generichide
+@@||xmpp-chat.pornhub.com^$script,~third-party,websocket
 @@||xmxing.net^
 @@||xonline.tv^$generichide
 @@||xxxstreams.eu^$generichide
