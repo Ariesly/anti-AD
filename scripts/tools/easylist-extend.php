@@ -270,7 +270,7 @@ while(!feof($src_fp)){
         continue;
     }
 
-    if(($row{0} === '!') && (substr($row, 0, 13) === '!Total lines:')){
+    if(($row[0] === '!') && (substr($row, 0, 13) === '!Total lines:')){
         $insert_pos = $written_size;
     }
 
@@ -321,7 +321,7 @@ $whiterule = file(WHITERULE_SRC, FILE_SKIP_EMPTY_LINES | FILE_IGNORE_NEW_LINES);
 $whiterule=array_fill_keys($whiterule, 0);
 $ARR_WHITE_RULE_LIST = array_merge($whiterule, $ARR_WHITE_RULE_LIST);
 foreach($ARR_WHITE_RULE_LIST as $row => $v){
-    if(empty($row) || $row{0} !== '@' || $row{1} !== '@'){
+    if(empty($row) || $row[0] !== '@' || $row[1] !== '@'){
         continue;
     }
     $matches = array();
@@ -340,7 +340,7 @@ foreach($ARR_WHITE_RULE_LIST as $row => $v){
     }
 
     foreach($wrote_wild as $core_str => $val){
-        if($core_str{0} === '/'){
+        if($core_str[0] === '/'){
             $match_rule = $core_str;
         }else{
             $match_rule = str_replace(array('.', '*'), array('\\.', '.*'), $core_str);
