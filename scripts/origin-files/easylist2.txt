@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202012250212
+! Version: 202012260108
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Dec 2020 02:12 UTC
+! Last modified: 26 Dec 2020 01:08 UTC
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19627,6 +19627,7 @@ _site_cookie_
 ##.socialnav
 ##.socialnav-item
 ##.socialnavbar
+##.socialnetworkbox
 ##.socialnetworks
 ##.socialno
 ##.socialnonsense-wide-articles
@@ -21103,6 +21104,9 @@ _site_cookie_
 ##[aria-label="Follow us on Facebook"]
 ##[aria-label="Follow us on Twitter"]
 ##[aria-label="More sharing options"]
+##[aria-label="Share on facebook"]
+##[aria-label="Share on linkedin"]
+##[aria-label="Share on twitter"]
 ##[aria-label="Social bar"]
 ##[aria-label^="Follow on Facebook"]
 ##[card-share-open]
@@ -46304,6 +46308,7 @@ arbeiterkammer.at,brieftip.pl,britishairways.com,epolisbari.com,fotofairsicherun
 dhbbank.nl#@##cookieModalCenter
 krefting.de#@##cookieNote
 tweakers.net#@##cookieOverlay
+crown.com#@##cookiePolicyModal
 milliman.com#@##cookieSection
 gberardi.com#@##cookie_message
 postnl.be#@##cookiebar-container
