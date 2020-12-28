@@ -807,7 +807,7 @@
 ||2mdn.info^$popup,third-party
 ||2mdn.info^$third-party
 ||2mdn.net^$domain=spiegel.de
-||2mdn.net^$~object,third-party
+||2mdn.net^$third-party
 ||2o7.net^$third-party
 ||2oyb82awp8.monster^
 ||2p1ih.cn^
@@ -930,6 +930,7 @@
 ||360zuowen.net^
 ||361315.cc^
 ||362b643a66026e.com^
+||362b643a66026e.com^$popup
 ||36500.com^
 ||36500.com^$third-party
 ||36500.net^$third-party
@@ -3691,7 +3692,6 @@
 ||adultcamliveweb.com^$third-party
 ||adultcommercial.net^$third-party
 ||adultdatingtraffic.com^$third-party
-||adultfilmdatabase.com^*/porndude.
 ||adultforce.com^$third-party
 ||adultfriendfinder.com^
 ||adultimate.net^$third-party
@@ -4273,6 +4273,7 @@
 ||aishiguolong.com^
 ||aishowbger.com^
 ||aisouk.cn^
+||aissoksu.net^
 ||aiwanma99.com^$popup
 ||aiwen.cc^
 ||aiwhamti.com^
@@ -4773,6 +4774,7 @@
 ||analytics.loop-cloud.de^$third-party
 ||analytics.mailmunch.co^
 ||analytics.matchbin.com^
+||analytics.mbga.jp^
 ||analytics.meaww.com^
 ||analytics.meituan.net^
 ||analytics.midwesternmac.com^
@@ -5000,6 +5002,7 @@
 ||aodepuo.cn^
 ||aodongjiaosu.com^
 ||aodsywsxzquemt.com^
+||aoidf3.com^
 ||aol.co.uk^*/cobrand.js
 ||aolcdn.com^*/beacon.min.js
 ||aomde.com^
@@ -11742,6 +11745,7 @@
 ||doudouguo.com^
 ||doufoacu.net^
 ||doug1izaerwt3.cloudfront.net^
+||douhooke.net^
 ||doumob.com^
 ||douoblelimpup.com^
 ||doupuer.com^
@@ -17357,6 +17361,7 @@
 ||hwyoikfrfdtjp.com^
 ||hx623.cn^
 ||hxadt.com^
+||hxbt.alading123.com^
 ||hxbvxmyldlt.com^
 ||hxgccl.cn^
 ||hxhxjcffzp.com^
@@ -17627,6 +17632,7 @@
 ||identifyluckyexactly.com^
 ||ideoclick.com^$third-party
 ||idezofimc.com^
+||idgdmgroup.com.cn^
 ||idgdmgroup.com.cn^$third-party
 ||idiafix.com^
 ||idianfang.com^
@@ -22403,7 +22409,6 @@
 ||meetic-partners.com^$third-party
 ||meetingking.club^
 ||meetingking.club^$popup
-||meetlocals.com^*popunder$popup
 ||meetrics.net^$domain=spiegel.de|stern.de
 ||meetrics.net^$third-party
 ||meetsexygirls.org^$popup,third-party
@@ -24218,7 +24223,7 @@
 ||nickarini.com^
 ||nicmitosasm.top^
 ||nicmtzkucd.com^
-||nicoad.nicovideo.jp^$domain=~nicoad.nicovideo.jp
+||nicoad.nicovideo.jp^$domain=~live2.nicovideo.jp|~nicoad.nicovideo.jp
 ||nicveteroge.club^
 ||niebrundveepursuede.info^
 ||niegg.com^
@@ -25266,7 +25271,6 @@
 ||onlineporno.fun^$third-party
 ||onlineshopping.website^$popup
 ||onlinewebstat.com^$third-party
-||only18adultgames.pro^$popup,third-party
 ||onlyalad.net^$third-party
 ||onlyfang.cn^
 ||onlyfans.com^*/stats-collect?
@@ -29640,6 +29644,7 @@
 ||runadtag.com^$third-party
 ||runative-syndicate.com^
 ||runative.com^$third-party
+||runbornto.com^
 ||runcornandwidnesworld-gb.runcornandwidnesworld.co.uk^
 ||runetki.co^$third-party
 ||runetki.com^$third-party
@@ -30137,6 +30142,7 @@
 ||sculifinanthools.site^
 ||scund.com^$third-party
 ||scupio.com^$third-party
+||scurewall.co^$third-party
 ||scvdxxgbvoz.com^
 ||scvxgm.cn^
 ||scw.systems^$third-party
@@ -31878,6 +31884,7 @@
 ||ssgg.chazidian.com^
 ||ssjpx.com^
 ||ssjy168.com^
+||sskmnews.pro^
 ||ssknweoz.cn^
 ||ssl-images-amazon.com^*/wcs-help-omniture-$script
 ||ssl-services.com^$third-party
@@ -33591,6 +33598,7 @@
 ||thighlykamsh.site^
 ||thikraik.net^$third-party
 ||thimoaph.net^
+||thindsoo.cn^
 ||thingswontend.com^$third-party
 ||thinktot.com^$third-party
 ||thinnerlessenfounded.com^
