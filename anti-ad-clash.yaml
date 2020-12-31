@@ -1,5 +1,5 @@
 #TITLE=anti-AD
-#VER=20201230132724
+#VER=20201231102506
 #URL=https://github.com/privacy-protection-tools/anti-AD
 #TOTAL_LINES=37764
 payload:
@@ -62,7 +62,6 @@ payload:
   - DOMAIN-SUFFIX,039ad0897e6da.com
   - DOMAIN-SUFFIX,0413fsiuhwem.xyz
   - DOMAIN-SUFFIX,0420zvnmljgfdsa.xyz
-  - DOMAIN-SUFFIX,04273b4d0ffe.com
   - DOMAIN-SUFFIX,b1.0430.com
   - DOMAIN-SUFFIX,b2.0430.com
   - DOMAIN-SUFFIX,0451106.com
@@ -519,6 +518,7 @@ payload:
   - DOMAIN-SUFFIX,19b45a16170729.com
   - DOMAIN-SUFFIX,19beda38dc2ce42.com
   - DOMAIN-SUFFIX,19d12dd9de1.com
+  - DOMAIN-SUFFIX,19shows.net
   - DOMAIN-SUFFIX,1ab5bb25e29d576.com
   - DOMAIN-SUFFIX,1affmedia.com
   - DOMAIN-SUFFIX,1aogoh1j81g3.com
@@ -653,7 +653,6 @@ payload:
   - DOMAIN-SUFFIX,21union.com
   - DOMAIN-SUFFIX,21xsk.com
   - DOMAIN-SUFFIX,220efda3143.com
-  - DOMAIN-SUFFIX,2219ca6fc1.com
   - DOMAIN-SUFFIX,22222jsc.com
   - DOMAIN-SUFFIX,222627.com
   - DOMAIN-SUFFIX,2226ka.com
@@ -739,7 +738,6 @@ payload:
   - DOMAIN-SUFFIX,28mcw1.cn
   - DOMAIN-SUFFIX,28ysc.com
   - DOMAIN-SUFFIX,storage.29293.com
-  - DOMAIN-SUFFIX,292f18b4e7b4.com
   - DOMAIN-SUFFIX,293870.com
   - DOMAIN-SUFFIX,d.2945.com
   - DOMAIN-SUFFIX,29ae58661b9c7178.com
@@ -1512,7 +1510,6 @@ payload:
   - DOMAIN-SUFFIX,5c.com.cn
   - DOMAIN-SUFFIX,5c43cbc0f41.com
   - DOMAIN-SUFFIX,5c577fc74618431b.com
-  - DOMAIN-SUFFIX,5cebdc16d51ea.com
   - DOMAIN-SUFFIX,5cwr93yyd4lf.com
   - DOMAIN-SUFFIX,5d02977f6511aa.com
   - DOMAIN-SUFFIX,m.5d63b.cn
@@ -2733,7 +2730,6 @@ payload:
   - DOMAIN-SUFFIX,ad2load.net
   - DOMAIN-SUFFIX,ad2up.com
   - DOMAIN-SUFFIX,ad4.com.cn
-  - DOMAIN-SUFFIX,ad42877d321.com
   - DOMAIN-SUFFIX,ad4980.kr
   - DOMAIN-SUFFIX,ad4989.co.kr
   - DOMAIN-SUFFIX,ad4game.com
@@ -7555,7 +7551,6 @@ payload:
   - DOMAIN-SUFFIX,cayanfang.com
   - DOMAIN-SUFFIX,cb-content.com
   - DOMAIN-SUFFIX,cb3fzwkkt6yxt.xyz
-  - DOMAIN-SUFFIX,cb74a5af6bedd.com
   - DOMAIN-SUFFIX,cba-fed-igh.com
   - DOMAIN-SUFFIX,cbbp1.com
   - DOMAIN-SUFFIX,subscriptions.cbc.ca
@@ -10827,6 +10822,7 @@ payload:
   - DOMAIN-SUFFIX,dokauzob.top
   - DOMAIN-SUFFIX,dolgotok.pro
   - DOMAIN-SUFFIX,dollarade.com
+  - DOMAIN-SUFFIX,dollardelta.com
   - DOMAIN-SUFFIX,dollarsponsor.com
   - DOMAIN-SUFFIX,dollsdeclare.com
   - DOMAIN-SUFFIX,dolohen.com
@@ -11363,7 +11359,6 @@ payload:
   - DOMAIN-SUFFIX,e960e146d9b5ca.com
   - DOMAIN-SUFFIX,e9976b21f1b2775b.com
   - DOMAIN-SUFFIX,e9c1khhwn4uf.com
-  - DOMAIN-SUFFIX,e9e1542c796.com
   - DOMAIN-SUFFIX,e9emh.cn
   - DOMAIN-SUFFIX,ea3721.com
   - DOMAIN-SUFFIX,stat.ea3w.com
@@ -12199,6 +12194,7 @@ payload:
   - DOMAIN-SUFFIX,ethereum-pocket.de
   - DOMAIN-SUFFIX,ethereum-pocket.eu
   - DOMAIN-SUFFIX,abt.etherscan.com
+  - DOMAIN-SUFFIX,mct.etherscan.com
   - DOMAIN-SUFFIX,gen.etherscan.io
   - DOMAIN-SUFFIX,ethethoa.net
   - DOMAIN-SUFFIX,ethic.vip
@@ -14923,6 +14919,7 @@ payload:
   - DOMAIN-SUFFIX,gxdhgb.com
   - DOMAIN-SUFFIX,gxdmxx.com
   - DOMAIN-SUFFIX,gxejgs.com
+  - DOMAIN-SUFFIX,gxfc2021.top
   - DOMAIN-SUFFIX,fpb1.gxfin.com
   - DOMAIN-SUFFIX,gxgydnhz.com
   - DOMAIN-SUFFIX,gxgzyny.com
@@ -18657,7 +18654,6 @@ payload:
   - DOMAIN-SUFFIX,klangoo.com
   - DOMAIN-SUFFIX,klapenlyidveln.stream
   - DOMAIN-SUFFIX,klarnaservices.com
-  - DOMAIN-SUFFIX,klaviyo.com
   - DOMAIN-SUFFIX,klayiwpzjk.com
   - DOMAIN-SUFFIX,kld666.com
   - DOMAIN-SUFFIX,kldmm.com
@@ -21802,6 +21798,7 @@ payload:
   - DOMAIN-SUFFIX,msbftyajwu.com
   - DOMAIN-SUFFIX,mscimg.com
   - DOMAIN-SUFFIX,bjs.mscto.com
+  - DOMAIN-SUFFIX,js.mscto.com
   - DOMAIN-SUFFIX,msdfd.cn
   - DOMAIN-SUFFIX,msdns.online
   - DOMAIN-SUFFIX,mse2v5oglm.com
@@ -24486,7 +24483,6 @@ payload:
   - DOMAIN-SUFFIX,pegloang.com
   - DOMAIN-SUFFIX,pejqoq4cafo3bg9yqqqtk5e6s6.com
   - DOMAIN-SUFFIX,pekingpk10.com
-  - DOMAIN-SUFFIX,pelcro.com
   - DOMAIN-SUFFIX,pema.cl
   - DOMAIN-SUFFIX,pemainedperio.info
   - DOMAIN-SUFFIX,penarthtimes-gb.penarthtimes.co.uk
@@ -35641,6 +35637,7 @@ payload:
   - DOMAIN-SUFFIX,xkwfao.com
   - DOMAIN-SUFFIX,xkxddhpx.com
   - DOMAIN-SUFFIX,xkzrbaexyrds.com
+  - DOMAIN-SUFFIX,xl4z7.cn
   - DOMAIN-SUFFIX,xladapi.izuiyou.com
   - DOMAIN-SUFFIX,xlbbhdarc.com
   - DOMAIN-SUFFIX,xlcun.com
@@ -36483,6 +36480,7 @@ payload:
   - DOMAIN-SUFFIX,yiwanuu.com
   - DOMAIN-SUFFIX,yiwk.com
   - DOMAIN-SUFFIX,yiwuds.com
+  - DOMAIN-SUFFIX,yixiangzhan.cn
   - DOMAIN-SUFFIX,a.yixie8.com
   - DOMAIN-SUFFIX,yixige.com
   - DOMAIN-SUFFIX,ad.yixin.im
@@ -37308,6 +37306,7 @@ payload:
   - DOMAIN-SUFFIX,zhinanw.cc
   - DOMAIN-SUFFIX,zhinengap.com
   - DOMAIN-SUFFIX,zhiong.net
+  - DOMAIN-SUFFIX,zhipinbook.cn
   - DOMAIN-SUFFIX,z1.zhishidu.com
   - DOMAIN-SUFFIX,z2.zhishidu.com
   - DOMAIN-SUFFIX,zhivalley.cn
@@ -37324,6 +37323,7 @@ payload:
   - DOMAIN-SUFFIX,zhlala.com
   - DOMAIN-SUFFIX,zhlrcaahpuqh.com
   - DOMAIN-SUFFIX,zhmatou.com
+  - DOMAIN-SUFFIX,zhongbolm.com
   - DOMAIN-SUFFIX,zhongdoulicai.com
   - DOMAIN-SUFFIX,zhongfujiaoyu.cn
   - DOMAIN-SUFFIX,zhongjiangguoji.org
