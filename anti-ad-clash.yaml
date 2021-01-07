@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20210106103112
+#VER=20210107103501
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=38497
+#TOTAL_LINES=38501
 payload:
   - DOMAIN-SUFFIX,00-gov.cn
   - DOMAIN-SUFFIX,kwcdn.000dn.com
@@ -3146,7 +3146,6 @@ payload:
   - DOMAIN-SUFFIX,adnyg.com
   - DOMAIN-SUFFIX,adnz.co
   - DOMAIN-SUFFIX,adobe-campaign.com
-  - DOMAIN-SUFFIX,entitlement.auth.adobe.com
   - DOMAIN-SUFFIX,3dns-2.adobe.com
   - DOMAIN-SUFFIX,3dns-3.adobe.com
   - DOMAIN-SUFFIX,activate-sea.adobe.com
@@ -13884,6 +13883,7 @@ payload:
   - DOMAIN-SUFFIX,gcaij.com
   - DOMAIN-SUFFIX,gcaog.com
   - DOMAIN-SUFFIX,gccoetmm.com
+  - DOMAIN-SUFFIX,gcctqal.cn
   - DOMAIN-SUFFIX,gcfx777.com
   - DOMAIN-SUFFIX,gcheg.com
   - DOMAIN-SUFFIX,gchhswgagb.com
@@ -16322,6 +16322,7 @@ payload:
   - DOMAIN-SUFFIX,iangp.com
   - DOMAIN-SUFFIX,iangs.com
   - DOMAIN-SUFFIX,ianisedover.info
+  - DOMAIN-SUFFIX,ianpos.com
   - DOMAIN-SUFFIX,ianxalim.pw
   - DOMAIN-SUFFIX,iarfina.pw
   - DOMAIN-SUFFIX,iarvyre.pw
@@ -21269,6 +21270,7 @@ payload:
   - DOMAIN-SUFFIX,ss.missyouxi.com
   - DOMAIN-SUFFIX,mistressavouchdeity.com
   - DOMAIN-SUFFIX,misxgkvnlf.com
+  - DOMAIN-SUFFIX,mitao17.com
   - DOMAIN-SUFFIX,mitatic.xyz
   - DOMAIN-SUFFIX,mitjg.xyz
   - DOMAIN-SUFFIX,mitouxoo.net
@@ -27853,6 +27855,7 @@ payload:
   - DOMAIN-SUFFIX,stats.sa-as.com
   - DOMAIN-SUFFIX,sa909.com
   - DOMAIN-SUFFIX,saambaa.com
+  - DOMAIN-SUFFIX,saastt.com
   - DOMAIN-SUFFIX,sabavision.com
   - DOMAIN-SUFFIX,sablesong.com
   - DOMAIN-SUFFIX,sabs-push.xyz
@@ -36843,6 +36846,7 @@ payload:
   - DOMAIN-SUFFIX,ygiqfnn.cn
   - DOMAIN-SUFFIX,yglhcn.cn
   - DOMAIN-SUFFIX,ygnftomdh.com
+  - DOMAIN-SUFFIX,ygnoqu.cn
   - DOMAIN-SUFFIX,ygpd.wang
   - DOMAIN-SUFFIX,ygqczh.com
   - DOMAIN-SUFFIX,ygsm.com
