@@ -1,5 +1,5 @@
 #TITLE=anti-AD
-#VER=20210107103501
+#VER=20210108103543
 #URL=https://github.com/privacy-protection-tools/anti-AD
 #TOTAL_LINES=38501
 payload:
@@ -1510,7 +1510,6 @@ payload:
   - DOMAIN-SUFFIX,5c.com.cn
   - DOMAIN-SUFFIX,5c43cbc0f41.com
   - DOMAIN-SUFFIX,5c577fc74618431b.com
-  - DOMAIN-SUFFIX,5centscdn.com
   - DOMAIN-SUFFIX,5cwr93yyd4lf.com
   - DOMAIN-SUFFIX,5d02977f6511aa.com
   - DOMAIN-SUFFIX,m.5d63b.cn
@@ -2345,6 +2344,7 @@ payload:
   - DOMAIN-SUFFIX,9t5.me
   - DOMAIN-SUFFIX,9ts3tpia.com
   - DOMAIN-SUFFIX,9ucm.com
+  - DOMAIN-SUFFIX,9uh94c.cn
   - DOMAIN-SUFFIX,9um9jq799.com
   - DOMAIN-SUFFIX,9utwbj08.top
   - DOMAIN-SUFFIX,9uys.co
@@ -5370,7 +5370,7 @@ payload:
   - DOMAIN-SUFFIX,azeriondigital.com
   - DOMAIN-SUFFIX,tracker.azet.sk
   - DOMAIN-SUFFIX,rum.azion.com
-  - DOMAIN-SUFFIX,azioncdn.net
+  - DOMAIN-SUFFIX,rum.azioncdn.net
   - DOMAIN-SUFFIX,azjmp.com
   - DOMAIN-SUFFIX,aznapoz.info
   - DOMAIN-SUFFIX,aznuqxmji.com
@@ -5382,7 +5382,9 @@ payload:
   - DOMAIN-SUFFIX,azrjdlvlsxihbd.com
   - DOMAIN-SUFFIX,azsikvmhlzuhje.com
   - DOMAIN-SUFFIX,aztecash.com
-  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,analytics-consent-manager.azureedge.net
+  - DOMAIN-SUFFIX,g2insights-cdn.azureedge.net
+  - DOMAIN-SUFFIX,revboostprocdnadsprod.azureedge.net
   - DOMAIN-SUFFIX,hspbotdetection.azurewebsites.net
   - DOMAIN-SUFFIX,tmform.azurewebsites.net
   - DOMAIN-SUFFIX,azvjudwr.info
@@ -6145,7 +6147,6 @@ payload:
   - DOMAIN-SUFFIX,belstat.fr
   - DOMAIN-SUFFIX,belstat.nl
   - DOMAIN-SUFFIX,beludicolor.com
-  - DOMAIN-SUFFIX,belugacdn.link
   - DOMAIN-SUFFIX,belvertising.be
   - DOMAIN-SUFFIX,belwrite.com
   - DOMAIN-SUFFIX,bemarts.club
@@ -6592,7 +6593,6 @@ payload:
   - DOMAIN-SUFFIX,blamads.com
   - DOMAIN-SUFFIX,blardenso.com
   - DOMAIN-SUFFIX,blatungo.com
-  - DOMAIN-SUFFIX,blazingcdn.net
   - DOMAIN-SUFFIX,pistyll.bleacherreport.com
   - DOMAIN-SUFFIX,blebesidents.info
   - DOMAIN-SUFFIX,blecuttasha.club
@@ -7629,7 +7629,6 @@ payload:
   - DOMAIN-SUFFIX,cdn-server.top
   - DOMAIN-SUFFIX,cdn-sitegainer.com
   - DOMAIN-SUFFIX,cdn-t.xyz
-  - DOMAIN-SUFFIX,cdn-tech.io
   - DOMAIN-SUFFIX,woaizhongguo.cdn111222.com
   - DOMAIN-SUFFIX,cdn4ads.com
   - DOMAIN-SUFFIX,cdn7.network
@@ -7750,7 +7749,6 @@ payload:
   - DOMAIN-SUFFIX,ceyiuy.com
   - DOMAIN-SUFFIX,cezezo.top
   - DOMAIN-SUFFIX,ceztv.com
-  - DOMAIN-SUFFIX,cf-china.info
   - DOMAIN-SUFFIX,m.cfanm.com
   - DOMAIN-SUFFIX,cfasync.cf
   - DOMAIN-SUFFIX,cfasync.ga
@@ -8503,6 +8501,7 @@ payload:
   - DOMAIN-SUFFIX,d227cncaprzd7y.cloudfront.net
   - DOMAIN-SUFFIX,d22lo5bcpq2fif.cloudfront.net
   - DOMAIN-SUFFIX,d22v2nmahyeg2a.cloudfront.net
+  - DOMAIN-SUFFIX,d22xmn10vbouk4.cloudfront.net
   - DOMAIN-SUFFIX,d22z575k8abudv.cloudfront.net
   - DOMAIN-SUFFIX,d23guct4biwna6.cloudfront.net
   - DOMAIN-SUFFIX,d23p9gffjvre9v.cloudfront.net
@@ -10867,7 +10866,6 @@ payload:
   - DOMAIN-SUFFIX,analytics3.dopool.com
   - DOMAIN-SUFFIX,dopor.info
   - DOMAIN-SUFFIX,doqapnez.com
-  - DOMAIN-SUFFIX,doracdn.com
   - DOMAIN-SUFFIX,dorama.site
   - DOMAIN-SUFFIX,dorbanise.pw
   - DOMAIN-SUFFIX,pixel.dorehernowi.pro
@@ -14381,7 +14379,6 @@ payload:
   - DOMAIN-SUFFIX,gobhasyum.com
   - DOMAIN-SUFFIX,gobmodfoe.com
   - DOMAIN-SUFFIX,gobovoul.net
-  - DOMAIN-SUFFIX,gocache.net
   - DOMAIN-SUFFIX,goclick.info
   - DOMAIN-SUFFIX,mms.gocomics.com
   - DOMAIN-SUFFIX,events.api.godaddy.com
@@ -15965,6 +15962,7 @@ payload:
   - DOMAIN-SUFFIX,hrtye.com
   - DOMAIN-SUFFIX,hs-analytics.net
   - DOMAIN-SUFFIX,hs-banner.com
+  - DOMAIN-SUFFIX,hs-scripts.com
   - DOMAIN-SUFFIX,hs1s1.cn
   - DOMAIN-SUFFIX,hsadspixel.net
   - DOMAIN-SUFFIX,a.hsbianma.com
@@ -18786,6 +18784,7 @@ payload:
   - DOMAIN-SUFFIX,kr3vinsx.com
   - DOMAIN-SUFFIX,krakenoptimize.com
   - DOMAIN-SUFFIX,krakeshlaja.com
+  - DOMAIN-SUFFIX,cnt.krasland.ru
   - DOMAIN-SUFFIX,krboeyeq.com
   - DOMAIN-SUFFIX,krdmqluvudizq.com
   - DOMAIN-SUFFIX,krenovo.online
@@ -21413,7 +21412,6 @@ payload:
   - DOMAIN-SUFFIX,mnaljqzekv.com
   - DOMAIN-SUFFIX,mnbfujorh.com
   - DOMAIN-SUFFIX,mnbvjhg.com
-  - DOMAIN-SUFFIX,mncdn.com
   - DOMAIN-SUFFIX,mncvjhg.com
   - DOMAIN-SUFFIX,mnetads.com
   - DOMAIN-SUFFIX,mnfiiphpwzyncr.com
@@ -25537,7 +25535,6 @@ payload:
   - DOMAIN-SUFFIX,trk.pswec.com
   - DOMAIN-SUFFIX,a.psxxw.cn
   - DOMAIN-SUFFIX,psychologicaltotalnumeric.com
-  - DOMAIN-SUFFIX,psychz.net
   - DOMAIN-SUFFIX,psylefywha.pro
   - DOMAIN-SUFFIX,scripts.psyma.com
   - DOMAIN-SUFFIX,psywed.com
@@ -28634,6 +28631,7 @@ payload:
   - DOMAIN-SUFFIX,html.shibeiou.com
   - DOMAIN-SUFFIX,cgm.shicimingju.com
   - DOMAIN-SUFFIX,ss.shicimingju.com
+  - DOMAIN-SUFFIX,shidaikejivip.cn
   - DOMAIN-SUFFIX,shidailw.com
   - DOMAIN-SUFFIX,shiftrro.com
   - DOMAIN-SUFFIX,shiguangyx.cn
@@ -30501,6 +30499,7 @@ payload:
   - DOMAIN-SUFFIX,sxuunews.pro
   - DOMAIN-SUFFIX,sxwwizqaoedor.com
   - DOMAIN-SUFFIX,sxxca.com
+  - DOMAIN-SUFFIX,sxxfmc.com
   - DOMAIN-SUFFIX,sxxjdz.com
   - DOMAIN-SUFFIX,sxybjjz.cn
   - DOMAIN-SUFFIX,sxying.top
@@ -36667,6 +36666,7 @@ payload:
   - DOMAIN-SUFFIX,yaoyl.com
   - DOMAIN-SUFFIX,s.yaozui.com
   - DOMAIN-SUFFIX,yapparenalu.info
+  - DOMAIN-SUFFIX,yapusheji.com
   - DOMAIN-SUFFIX,yardr.net
   - DOMAIN-SUFFIX,yashi.com
   - DOMAIN-SUFFIX,yasmwesikz.com
