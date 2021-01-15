@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iemLPetqHNaFbv99n2eypw
-! Version: 202101140251
+! Checksum: 17NIPR/+sKldU/ca5LV+Xw
+! Version: 202101150241
 ! Title: EasyList China+EasyList
-! Last modified: 14 Jan 2021 02:51 UTC
+! Last modified: 15 Jan 2021 02:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 !
@@ -380,6 +380,7 @@
 /myzgg.
 /N-960x60.
 /newfengchao/asp
+/nfhry32_78.js
 /nForum/files/adv/*
 /ntes-ad-cloud.
 /partner/gg_sogou.html
@@ -493,6 +494,7 @@
 /websales_push_*_big.php?id=
 /wp-content/themes/iMovies/js/tc_
 /wscdn/*$subdocument
+/xgrghru981_23.js
 /xiaoyi/360_
 /xiaoyi/960_
 /xnewssygg.
@@ -1308,6 +1310,7 @@ ubmcmm.baidustatic.com
 ||080644.com^
 ||0885.net^$third-party
 ||0937jyg.com^
+||0b2qv7.cn^
 ||0bc.top^
 ||0ka.com^$third-party
 ||0mr.cc^
@@ -3476,6 +3479,7 @@ ubmcmm.baidustatic.com
 ||watchsk.com^
 ||waterserver.cn^
 ||wcnmd.top^
+||wdxxx.top^
 ||wdymwzz.com^
 ||wdzsb.com.cn^
 ||weareqy.com^$third-party
@@ -8984,9 +8988,9 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||yjspw25.com/pc_
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-pilifx.com##.home_row_1
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -9870,6 +9874,7 @@ playno1.com###m7
 2345.com###m_banner
 2345.com###m_banner_2
 chacuo.net###mailtooltipss
+kaka12345.cc###main
 g-years.com,ghoffice.com,gpsuu.com,mydigit.cn###main > .textMes
 e0575.cn###main > div:first-child
 qiannao.com###main > div[style="padding-left:20px;margin-top:10px;"]:first-child
@@ -11798,6 +11803,7 @@ douyu.com##.his-sign-cont
 zp365.com##.hitADclass
 jia360.com##.hjadv
 4gamers.com.tw##.home-carousel-container
+pilifx.com##.home_row_1
 dalipan.com##.hongbao-wrap
 pconline.com.cn##.hongbao_1111
 tieba.baidu.com##.hongbao_page_pop_common
@@ -13274,7 +13280,7 @@ zhangxinxu.com##[onclick*="Ad"]
 42xz.com##[onclick*="godownload"]
 717dyi.com,aiqiyivip.com##[onclick]
 duonaolive.com##[onclick^="track"]
-aiqiyivip.com,poxiaotv.com##[ontouchstart]
+717dyi.com,aiqiyivip.com,poxiaotv.com##[ontouchstart]
 duodada.com##[style*="position: fixed; left: 0px;"]
 kisssub.org##a > img[src*=".0o0.ooo/"]
 5dm.tv##a > img[src*=".sinaimg."]
@@ -16942,6 +16948,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||cwj2h.cn^
 ||cxb4.cn^
 ||cxcxt.com^
+||cxmob.net^
 ||cxslchkb.cn^
 ||cyboke.cn^
 ||cyto-biotherapy.com^
@@ -18436,6 +18443,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||xingpingmaoyi.cn^
 ||xingsky.cn^
 ||xingtai0.com^
+||xinheshengmce.com^
 ||xinqiannv.com^
 ||xintaizhaoming.com^
 ||xinuocp666.com^
@@ -18696,6 +18704,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||zoepb.cn^
 ||zopeynxv.top^
 ||zougg.com^
+||zoujuhonglawyer.com^
 ||zp0737.com^
 ||zpyfsj.cn^
 ||zqwlkj.cn^
@@ -18748,7 +18757,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 !#onemanhua.com
 $script,third-party,domain=cocomanhua.com
 @@.com/js/$domain=cocomanhua.com
-cocomanhua.com#@#.gg1000
+@@||cocomanhua.com^$generichide
 !#playno1.club
 @@||exosrv.com/ads-iframe-display.php$domain=getrelax.cc|sexylove.club
 @@||exosrv.com/ads.js$domain=getrelax.cc|sexylove.club
@@ -20971,7 +20980,6 @@ fqsousou.com,kengso.com#@#.user-share
 /adclixad.
 /adClosefeedbackUpgrade.
 /adclutter.
-/adcode.
 /adcode/*
 /adcode_
 /adcodes/*
@@ -27190,7 +27198,6 @@ _rightad1.
 _rightad_
 _rightmn_ads.
 _sectionfront_ad.
-_show_ads.
 _show_ads=
 _show_ads_
 _side-ad_
@@ -38249,6 +38256,7 @@ _popunder+$popup
 ##.ad-sidekick
 ##.ad-siderail
 ##.ad-signup
+##.ad-single-bottom
 ##.ad-sitewide
 ##.ad-size-300x250
 ##.ad-size-iab-uap-leaderboard-728x90
@@ -41060,6 +41068,7 @@ _popunder+$popup
 ##.adstyle
 ##.adsupperugo
 ##.adsupperugo_txt
+##.adsvideo
 ##.adswidget
 ##.adswitch
 ##.adsxpls
@@ -45391,6 +45400,7 @@ _popunder+$popup
 ##.listAdvertGenerator
 ##.listad
 ##.listicle--ad-rail
+##.listing-card-ad
 ##.listing-content-ad-container
 ##.listing-inline-ad
 ##.listing-item-ad
@@ -45715,6 +45725,7 @@ _popunder+$popup
 ##.mmc-ad
 ##.mmc-ad-wrap-2
 ##.mmcAd_Iframe
+##.mmy-ads
 ##.mnopolarisAd
 ##.mntl-gpt-adunit
 ##.mo_googlead
@@ -50589,7 +50600,6 @@ nationalpost.com#@#.adsizewrapper
 javbix.com#@#.adsleft
 fodey.com,tuxpi.com#@#.adslot
 wg-gesucht.de#@#.adslot_blurred
-javbix.com#@#.adsvideo
 cutepdf-editor.com#@#.adtable
 absolute.com#@#.adtile
 smilelocal.com#@#.adtop
@@ -72442,7 +72452,9 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dw.com/js/advertisement/
 ! In-page video advertising.
 ||avantisvideo.com/avm/js/video-loader.js$script,third-party
+||connatix.com/connatix.player.js$script,third-party
 ||connatix.com/connatix.playspace.js$script,third-party
+||connatix.com^*/connatix.player.js$script,third-party
 ||minutemediaservices.com/mplayer_embed.html$third-party
 ||playbuzz.com/embed/$script,third-party
 ||playbuzz.com/player/$script,third-party
@@ -73003,6 +73015,7 @@ $popup,third-party,domain=loader.to|play.hydracdn.network|streamtape.com|vidclou
 /sendspace-pop.$popup,domain=sendspace.com
 :text^$popup,domain=zippyshare.com
 ^utm_source=$popup,domain=sex.com
+browserleaks.com###vpn_img
 ||adf.ly/*.php?$popup
 ||adf.ly/_$popup
 ||adf.ly^$popup,domain=urgrove.com
@@ -73051,7 +73064,8 @@ $popup,third-party,domain=loader.to|play.hydracdn.network|streamtape.com|vidclou
 ||movies7.to/?$popup
 ||multiupload.nl/popunder/$popup
 ||mydirtyhobby.de^$popup,domain=flashx.tv
-||nordvpn.net^$popup,domain=thekat.li
+||nordvpn.com^$popup,domain=browserleaks.com
+||nordvpn.net^$popup,domain=browserleaks.com|thekat.li
 ||notube.lol/p/$popup
 ||nyafilmer.com/*.html$popup
 ||oddschecker.com/clickout.htm?type=takeover-$popup
@@ -73572,7 +73586,6 @@ abbotsfordgasprices.com,albertagasprices.com,barriegasprices.com,bcgasprices.com
 rednationonline.ca###dnn_BannerPane
 designtaxi.com###dt-small-sub-2
 designtaxi.com###dt-small-sub-3
-browserleaks.com###efvi
 energyforecastonline.co.za###endorsers
 geekwire.com###engineering-centers-sidebar
 fxsforexsrbijaforum.com###fa_ticker_container
@@ -73779,7 +73792,6 @@ jobstreet.com.sg###mysitelogo
 bgr.in,thehealthsite.com###mywebsite-container
 rentalcars.com###name_price_ad
 irishracing.com###naobox
-browserleaks.com###nav-right-logo
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr###nav-swmslot
 esl.eu###navi_partner
 webinspector.se###navigation_left
@@ -74021,7 +74033,9 @@ powerpointstyles.com###smowtion300250
 denverpost.com###snowReportFooter
 tfportal.net###snt_wrapper
 soccer24.co.zw###soccer24-ad
+toumpano.net###sp-feature
 armyrecognition.com###sp-google-advertising-2x-468x100
+toumpano.net###sp-right
 thedailygreen.com###sp_footer
 collegefashion.net###spawnsers
 searchenginejournal.com###spcat_ifr
@@ -74179,6 +74193,8 @@ eplsite.uk###video-section
 gumtree.com###vipBanner
 europages.co.uk###vipBox
 miami.com###visit
+browserleaks.com###vpn_img
+browserleaks.com###vpn_text
 anilinkz.to###waifu
 information-age.com###wallpaper-surround-outer
 eeweb.com###wallpaper_image
@@ -74753,7 +74769,6 @@ teenvogue.com##.ecom-placement
 newagebd.net##.editorialMid
 experts-exchange.com##.eeAD
 notebooks.com##.efbleft
-browserleaks.com##.efvi
 ctvnews.ca##.election-leaderboard
 pirateiro.com##.embedded > center
 easyvoyage.co.uk##.esv-ads
@@ -75613,6 +75628,7 @@ steroid.com##[href*="https://www.anabolics.com"]
 audiobookbay.net##[href="/dl-14-days-trial"]
 1movies.is##[href="/user/premiummembership"]
 2pass.co.uk##[href="bicycle-insurance.htm"]
+toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
 daijiworld.com##[href="http://www.expertclasses.org/"]
 sqlfiddle.com##[href="https://entityframework-extensions.net/"]
 mhktricks.org##[href="https://www.deepbrid.com/"]
@@ -75633,12 +75649,14 @@ unknowncheats.me##[href^="https://www.iwantcheats.net/"]
 gamecopyworld.com,gamecopyworld.eu##[href^="https://www.kinguin.net/"]
 nwanime.tv##[href^="https://www.nutaku.net/signup/landing/"]
 ownedcore.com##[href^="https://www.ownedcore.com/forums/b.php"]
+porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 bikeroar.com##[href^="https://www.roaradventures.com/"]
 noypigeeks.com##[href^="https://www.vivo.com/"]
 monova.org##[onclick] > [target="_blank"]
 monova.org##[onclick] > a[class]
 audioz.download##[src*="/promo/"]
 linuxtopia.org##[src^="/includes/index.php/?img="]
+porngames.club##[src^="https://wheelwheel.space/"]
 smallseotools.com##[style*="height: 300px;"]
 wahm.com##[style="min-height:250px;"]
 torrentresource.com##[width="150"]:last-child
@@ -76220,6 +76238,9 @@ cam4.be,cam4.com###subfoot
 porn300.com###tabcams-desk
 adultfyi.com###table18
 jav4.me,videowood.tv###tbl1
+playporngames.xxx###text-5
+playporngames.xxx###text-6
+playporngames.xxx###text-7
 mansurfer.com###top-ban
 hiddencamshots.com###top-banner
 nude.hu###topPartners
@@ -76260,7 +76281,7 @@ cumlouder.com##.aan-bottom
 porn300.com##.aan_fake
 bravotube.net##.abbs
 vrsmash.com##.abovePlayer
-chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.com,tallermaintenancar.com,tehvids.com,uflash.tv,xcafe.com##.ad
+chaturbate.com,gamcore.com,playboy.com,playporngames.xxx,rampant.tv,sex.com,signbucks.com,tallermaintenancar.com,tehvids.com,uflash.tv,xcafe.com##.ad
 extremetube.com,pinflix.com##.ad-container
 pornhub.com,pornhubthbh7ap3u.onion##.ad-link + table
 milfzr.com##.ad-widget > a
@@ -77366,7 +77387,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 ! Non-English
 @@||90-60-90.in.ua/images/moda/advt/$image,~third-party
 @@||abril.com.br^$generichide
-@@||ad-api-v01.uliza.jp^$script,xmlhttprequest,domain=golfnetwork.co.jp
+@@||ad-api-v01.uliza.jp^$script,xmlhttprequest,domain=golfnetwork.co.jp|tv-asahi.co.jp
 @@||ad.atown.jp/adserver/$domain=ad.atown.jp
 @@||ads.instacart.com/admin/$~third-party
 @@||ads.viralize.tv/player/$third-party,xmlhttprequest
@@ -77412,7 +77433,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=pccomponentes.com
 @@||gakushuin.ac.jp/ad/common/$~third-party
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
-@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|pccomponentes.com|vlive.tv
+@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv
 @@||iejima.org/ad-banner/$image,~third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|klix.ba|locipo.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl
 @@||ingrossoprofumitester.it/img/ad-profumeria-$image,~third-party
