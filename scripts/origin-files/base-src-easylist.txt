@@ -2534,6 +2534,7 @@
 ||aaddzz.com^$third-party
 ||aadvertismentt.com^$subdocument
 ||aafdcq.com^
+||aafuck.xyz^$third-party
 ||aagmbroxruno.com^
 ||aaitudxr.com^
 ||aakkzzz.com^
@@ -10939,7 +10940,6 @@
 ||datafeedfile.com^$third-party
 ||dataflow.biliapi.com^
 ||datafront.co^$third-party
-||datalayer.p7s1.io^
 ||datam.com^$third-party
 ||datamaster.com.cn^$third-party
 ||datamind.ru^$third-party
@@ -14223,7 +14223,7 @@
 ||finalid.com^$third-party
 ||finance-reporting.org^$popup
 ||financialstandardnews.com^*/webstats/
-||finchtechs.com^
+||finchtechs.com^$third-party
 ||find-ip-address.org^$third-party
 ||find-my-great-life.com^$third-party
 ||findandtry.com^$third-party
@@ -19718,6 +19718,7 @@
 ||jugglu.com^$third-party
 ||juggrounds.com^
 ||juhepen.com^$third-party
+||juhuandian.com^
 ||juiceads.net^$popup
 ||juiceadv.com^$third-party
 ||juiceadv.net^$third-party
@@ -22353,9 +22354,7 @@
 ||marketleverage.com^$third-party
 ||marketnetwork.com^$third-party
 ||marketo.com^
-||marketo.com^$third-party
 ||marketo.net^
-||marketo.net^$third-party
 ||marketperf.com^$third-party
 ||marketresearchglobal.com^$popup,third-party
 ||marketshot.com^$third-party
@@ -23766,6 +23765,7 @@
 ||multivizyon.tv^*/flysatbanner.swf
 ||mumlionslew.com^
 ||mumulian.com^
+||munchkin.marketo.net^
 ||mundanepollution.com^$third-party
 ||munero.me^$third-party
 ||mungaryn.club^
@@ -24503,6 +24503,7 @@
 ||ngleaccinemad.site^
 ||nglingapparen.fun^
 ||nglmedia.com^$third-party
+||ngmaul.cn^
 ||ngmco.net^$third-party
 ||ngrichtelcr.club^
 ||ngsaang.top^
@@ -26707,7 +26708,6 @@
 ||pic.zol-img.com.cn^$object
 ||pic1.429bi.com^
 ||pic1.97jut.com^
-||pic12x20.com^
 ||pic2.429bi.com^
 ||pic2.97jut.com^
 ||pic2.97jut.com^$app=com.android.chrome
@@ -29151,7 +29151,8 @@
 ||rediffractes.site^
 ||rediffractes.website^
 ||redintelligence.net^$third-party
-||redirect-ads.com^
+||redirect-ads.com^$popup
+||redirect-ads.com^$~subdocument,third-party
 ||redirect18systemsg.com^$popup
 ||redirect18systemsg.com^$third-party
 ||redirect2719.ws^
@@ -34550,6 +34551,7 @@
 ||toy9090.com^
 ||toybahyn.com^
 ||toysvestigetramp.com^
+||tozoruaon.com^$popup
 ||tozvhcq.cn^
 ||tp-link.com^*/addHits.html
 ||tp.deawm.com^
