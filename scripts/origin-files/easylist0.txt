@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dUMukzzELXD1uOTHKxFfww
-! Version: 202103180201
+! Checksum: s/gSQzN6d373PGjlQU9Txg
+! Version: 202103190201
 ! Title: EasyList China+EasyList
-! Last modified: 18 Mar 2021 02:00 UTC
+! Last modified: 19 Mar 2021 02:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -2882,6 +2882,7 @@ ubmcmm.baidustatic.com
 ||qianmeiby.com^
 ||qidou.com^$third-party
 ||qilashou.com^
+||qingniao.me^$third-party
 ||qingyanmjg.com^
 ||qinqiaotrade.com
 ||qiqivv.com^
@@ -3087,6 +3088,7 @@ ubmcmm.baidustatic.com
 ||szfaq.com^
 ||szggdw.com^
 ||szjianxin.net^
+||szpgzn.com^
 ||szpl0.com^
 ||szrk3.com^
 ||sztbjs.com^
@@ -3610,6 +3612,7 @@ ubmcmm.baidustatic.com
 ||zhongbolm.com^
 ||zhongdoulicai.com^
 ||zhongjiangguoji.org^
+||zhongjiayuan.xyz^
 ||zhongzk.com^
 ||zhuangzhaibancai.cn^
 ||zhuanzhuzibu.com^
@@ -4713,6 +4716,7 @@ _yad_jsonp_
 ||aizhan.com/imagesa/
 ||ak530.com/js/*.js
 ||akqipai.com/m/Tpl/v3/js/indexbottom.js
+||aldtop.com/scrtips/
 ||alexa.cn/upfile/images/
 ||ali213.net/images/bg_lt.jpg
 ||ali213.net/images/ycq.mp4
@@ -5500,6 +5504,7 @@ _yad_jsonp_
 ||d4.sina.com.cn^$object,script
 ||d5.sina.com.cn^$image,domain=~www.sina.com.cn
 ||d5.sina.com.cn^$object,script
+||d56p.com/love/
 ||d67p.com/love/
 ||da-fan-shu.cn/images/kuaijie.jpg
 ||da.duowan.com/loc/
@@ -5744,6 +5749,7 @@ _yad_jsonp_
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||ecpoc.com/style/ad
+||ed2000k.com/ad/
 ||edmontonchina.*/pic/
 ||educity.cn/self_text/text_disp.aspx?id=
 ||eduuu.com/website/public_js/pc_aso.js
@@ -7378,7 +7384,6 @@ _yad_jsonp_
 ||qingkai.com/2009/html/top.htm
 ||qingkai.com/gg_img/
 ||qingkong.net/skin/htcs/images/980.jpg
-||qingniao.me/banner.jpg
 ||qingsedhh.com/images/gg.gif
 ||qiuw.com/static/xin-ad.js
 ||qiuyi.cn/Baojian/
@@ -7892,6 +7897,7 @@ _yad_jsonp_
 ||tigtag.com/images/pic1/
 ||tigtag.com/styles/phpcms/js/tigtag/ads.js
 ||tiimg.com^$domain=678cn.com
+||ting56.com/xiezhewan/
 ||tingchina.com/images/aibaoliang.gif
 ||tingchina.com/js/*220-
 ||tingchina.com/js/760
@@ -10281,8 +10287,8 @@ tools.2345.com##._hb-box + .mod
 qq.com##._switchad
 pincong.rocks##.a-a
 gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
-159i.com##.a1.style25
 159i.com##.a1d
+159i.com##.a2.style25
 159i.com##.a2d
 159i.com##.a3d
 159i.com##.a4d
@@ -13104,7 +13110,6 @@ chinanews.com##a[href*=".jiuxianfeng.com"]
 tiexue.net##a[href*=".junp"]
 zhangxinxu.com##a[href*=".ke.qq."]
 doudoudm.site##a[href*=".kxyike.com/"]
-ed2000.com##a[href*=".lanzous.com/"]
 gucheng.com##a[href*=".liaogu.com"]
 apprcn.com,yeyulingfeng.com##a[href*=".lizhi."]
 mumujita.com##a[href*=".makeding.com/"]
@@ -13144,6 +13149,7 @@ bjnews.com.cn##a[href*="/ads/"]
 cangku.in,cangku.moe,galacg.me##a[href*="/game"]
 55188.com##a[href*="/gg-link."]
 ccav1.com##a[href*="/go"]
+vpsmm.com##a[href*="/go/"]
 yusuan123.com##a[href*="/goto/"]
 dy2018.com,xiaopian.com##a[href*="/htmlcode/"]
 cableabc.com##a[href*="/img1/"]
@@ -13248,6 +13254,7 @@ wn789.com##a[href^="http"]:not([href*="://www.wn789."]) > img
 ilvruan.com##a[href^="http"]:not([href*="ilvruan"]) > img
 stock87.com##a[href^="http"]:not([href*="stock87."]) > img[src*="uploadfiles/image/"]
 wnacg.com,wnacg.org##a[href^="http"]:not([href*="wnacg."]) img
+vpsmm.com##a[href^="http"]:not([href^="https://www.vpsmm.com/"])
 107cine.com##a[href^="http://107cine.com/ads/"]
 hepuwang.com##a[href^="http://ad."]
 m.nownews.com##a[href^="http://ad1.nownews.com"]
@@ -15375,6 +15382,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||bt1.patexplorer.com^
 ||bu1.duba.com^
 ||bu1.vvvdj.com^
+||c.28rv.com^
 ||c.caijing123.com^
 ||c.jjkk.org^
 ||c.mnjkw.cn^
@@ -17632,6 +17640,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||szhgmd.com^
 ||szmxwjm.com^
 ||szpengliye.com^
+||szpgzn.com^
 ||szqifu.com^
 ||szqipin.cn^
 ||szshouzhai.com^
@@ -24803,7 +24812,7 @@ fqsousou.com,kengso.com#@#.user-share
 /reklam-ads2.
 /reklam.$domain=~reklam.com.tr
 /reklam/*$domain=~reklam.com.tr
-/reklama.$~stylesheet,domain=~pracuj.pl|~reklama.cinema.sk|~reklama.mariafm.ru|~reklama.ringieraxelspringer.pl
+/reklama.$~stylesheet,domain=~pracuj.pl|~reklama.cinema.sk|~reklama.grajewo.net.pl|~reklama.mariafm.ru|~reklama.ringieraxelspringer.pl
 /reklama/*
 /reklama1.
 /reklama2.
@@ -25821,7 +25830,7 @@ fqsousou.com,kengso.com#@#.user-share
 ://adcl.$domain=~adcl.com|~adcl.screenconnect.com
 ://adn.*/zone/$subdocument
 ://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.lapalingo.com|~ads.lordlucky.com|~ads.microsoft.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
-://adv.$domain=~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
+://adv.$domain=~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party
 ://affiliates2.$third-party
@@ -29014,6 +29023,7 @@ _popunder+$popup
 ###ad90
 ###ad900
 ###ad97090
+###ad970x90_exp
 ###adATF300x250
 ###adAd
 ###adBTF300x250
@@ -32617,6 +32627,7 @@ _popunder+$popup
 ###dfp-ad-boombox_5-wrapper
 ###dfp-ad-bottom-wrapper
 ###dfp-ad-clone_of_sidebar_top
+###dfp-ad-container
 ###dfp-ad-content_1-wrapper
 ###dfp-ad-content_2-wrapper
 ###dfp-ad-content_3-wrapper
@@ -32701,6 +32712,7 @@ _popunder+$popup
 ###dfp-article-related-mpu
 ###dfp-global_top
 ###dfp-home_after-headline_leaderboard
+###dfp-interstitial
 ###dfp-leaderboard-desktop
 ###dfp-middle
 ###dfp-middle1
@@ -32798,15 +32810,6 @@ _popunder+$popup
 ###div-gpt-MPU2
 ###div-gpt-MPU3
 ###div-gpt-Skin
-###div-gpt-ad-300-inline1
-###div-gpt-ad-300-inline2
-###div-gpt-ad-300-inline3
-###div-gpt-ad-300-right
-###div-gpt-ad-300-right2
-###div-gpt-ad-lr-cube1
-###div-gpt-ad-mrec-5
-###div-gpt-ad-spotlight
-###div-gpt-ad-top_banner
 ###div-gpt-mrec
 ###div-id-for-interstitial-ad
 ###div-insticator-ad-1
@@ -39923,6 +39926,7 @@ _popunder+$popup
 ##.adsLine
 ##.adsMPU
 ##.adsMag
+##.adsMarker
 ##.adsMiddle
 ##.adsNotaTopo
 ##.adsOuter
@@ -44829,6 +44833,7 @@ _popunder+$popup
 ##.leftAd_bottom_fmt
 ##.leftAd_top_fmt
 ##.leftAds
+##.leftAdsEnabled
 ##.leftAdsFix
 ##.leftAdsFix1
 ##.leftAdvert
@@ -48628,10 +48633,13 @@ _popunder+$popup
 ##[id^="ad-wrap-"]
 ##[id^="adframe_wrap_"]
 ##[id^="bunyad_ads_"]
+##[id^="div-gpt-ad-"]
+##[id^="google_ads_iframe_"]
 ##[lazy-ad="leftbottom_banner"]
 ##[lazy-ad="leftthin_banner"]
 ##[lazy-ad="lefttop_banner"]
 ##[lazy-ad="top_banner"]
+##[name^="google_ads_iframe"]
 ##[onclick^="window.open('http://adultfriendfinder.com/search/"]
 ##[onclick^="window.open('https://www.brazzersnetwork.com/landing/"]
 ##[onclick^="window.open('window.open('//delivery.trafficfabrik.com/"]
@@ -49372,7 +49380,6 @@ _popunder+$popup
 ##div[id^="dmRosAdWrapper"]
 ##div[id^="drudge-column-ads-"]
 ##div[id^="ezoic-pub-ad-"]
-##div[id^="google_ads_iframe_"]
 ##div[id^="google_dfp_"]
 ##div[id^="gtm-ad-"]
 ##div[id^="lazyad-"]
@@ -49386,12 +49393,11 @@ _popunder+$popup
 ##div[itemtype="http://schema.org/WPAdBlock"]
 ##div[itemtype="http://www.schema.org/WPAdBlock"]
 ##iframe[id^="google_ads_frame"]
-##iframe[id^="google_ads_iframe"]
-##iframe[name^="google_ads_iframe"]
 ##iframe[src*="mellowads.com"]
 ##iframe[src^="http://ad.yieldmanager.com/"]
+##iframe[src^="https://pagead2.googlesyndication.com/"]
+##iframe[src^="https://tpc.googlesyndication.com/"]
 ##img[alt^="Fuckbook"]
-##p[id^="div-gpt-ad-"]
 ##script[src^="http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox="] + #freeshoutbox_content
 ##span[data-component-type="s-ads-metrics"]
 ##topadblock
@@ -50259,6 +50265,7 @@ davidsilverspares.co.uk#@#.greyAd
 komando.com#@#.grid-item-ad
 forums.digitalspy.com,marketwatch.com,waer.org#@#.has-ad
 minecraftforge.net#@#.hasads
+naver.com#@#.head_ad
 adexchanger.com,assetbar.com,burningangel.com,donthatethegeek.com,drunkenstepfather.com,intomobile.com,minkch.com,poderpda.com,politicususa.com,seattlepi.com,sfgate.com,startingstrongman.com,thenationonlineng.net,thinkcomputers.org,wccftech.com,wholelifestylenutrition.com#@#.header-ad
 greenbayphoenix.com,photobucket.com#@#.headerAd
 dailytimes.com.pk,mobiili.fi,swns.com#@#.header_ad
@@ -50404,6 +50411,7 @@ statejournal.com#@#.wnad
 americannews.com,theuspatriot.com#@#.wpInsertInPostAd
 cnsm.com.br#@#.wp_bannerize
 weather.yahoo.com#@#.yom-ad
+daveramsey.com,foodkick.com,olx.pl,pccomponentes.com,ripley.cl,ripley.com.pe#@#[id^="google_ads_iframe_"]
 revimedia.com#@#a[href*=".revimedia.com/"]
 dr.dk#@#a[href*=".smartadserver.com"]
 trust.zone#@#a[href*=".trust.zone"]
@@ -50448,7 +50456,6 @@ marketgid.com,mgid.com#@#div[id^="MarketGid"]
 sensacionalista.com.br#@#div[id^="advads-"]
 flightcentre.co.uk,out.com#@#div[id^="dfp-ad-"]
 amazon.com,concursovirtual.com.br,daveramsey.com,drupalcommerce.org,ensonhaber.com,eurweb.com,faceyourmanga.com,isc2.org,lavozdegalicia.es,liverc.com,liverpoolfc.com,loksatta.com,mit.edu,muscatdaily.com,olx.pl,payback.pl,pccomponentes.com,peekyou.com,pianobuyer.com,podomatic.com,ripley.cl,ripley.com.pe,suntimes.com,timesofoman.com,virginaustralia.com,wlj.net,zavvi.com#@#div[id^="div-gpt-ad"]
-daveramsey.com,foodkick.com,olx.pl,pccomponentes.com,ripley.cl,ripley.com.pe#@#div[id^="google_ads_iframe_"]
 lavozdegalicia.es#@#div[itemtype="http://schema.org/WPAdBlock"]
 bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id^="google_ads_frame"]
 bodas.com.mx,bodas.net,concursovirtual.com.br,daveramsey.com,economist.com,flightcentre.co.uk,foodkick.com,lavozdegalicia.es,liverpoolfc.com,mariages.net,matrimonio.com,olx.pl,payback.pl,pccomponentes.com,pianobuyer.com,ripley.cl,ripley.com.pe,thoughtcatalog.com,vroomvroomvroom.com.au,weddingspot.co.uk,wsj.com,zillow.com#@#iframe[id^="google_ads_iframe"]
@@ -50559,6 +50566,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||15fa37b45d.com^
 ||16482f75cb.com^
 ||165a7c15380874ef3.com^
+||16ab95b4940.com^
 ||1740f665a91b68.com^
 ||192b1a49d57.com^
 ||1955dcb2fee1a13.com^
@@ -50574,6 +50582,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||1b6a637cbe7bb65ac.com^
 ||1bcde.com^
 ||1ccbt.com^
+||1cd01ebaa34d.com^
 ||1ced38bdc42b883.com^
 ||1d0d0d7a2ee.com^
 ||1e310acae6aee.com^
@@ -50647,6 +50656,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||3381e74f70adfb59.com^
 ||33ae985c0ea917.com^
 ||33d249c809e.com^
+||33f7414761d4.com^
 ||340ca72733c9e46fb1.com^
 ||341073be6e9db7d2.com^
 ||34baedd2d0b9.com^
@@ -50704,6 +50714,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||46186911.vtt^
 ||4702fb341ddf276d.com^
 ||473863a8ef28.com^
+||47b63cbfb34a0.com^
 ||48331375c351e.com^
 ||48423894b2a24481.com^
 ||493b98cce8bc1a2dd.com^
@@ -50718,6 +50729,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||4eb0601358ea5.com^
 ||4ebde70ccf.com^
 ||4edidqmtzlsa.com^
+||4everfeel.xyz^
 ||4f6b2af479d337cf.com^
 ||4f9d88054fa2b.com^
 ||4ib3rzfjqh.buzz^
@@ -51188,6 +51200,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||afaeqxnbylkxp.com^
 ||afeuvqrsswz.com^
 ||aff1xstavka.com^
+||affableindigestionstruggling.com^
 ||affairswaved.com^
 ||affectiondifferentlysway.com^
 ||affiliates.systems^
@@ -51318,6 +51331,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||amateurcouplewebcam.com^
 ||amaumomt.com^
 ||amavirgin.pro^
+||amenddroopingpharmacy.com^
 ||amerallyluke.club^
 ||amesgraduatel.site^
 ||amgtomdcxvm.com^
@@ -51579,6 +51593,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||away-stay.com^
 ||awbbcre.com^
 ||awdigit.info^
+||awebotchunto.work^
 ||aweinkbum.com^
 ||awelessawelesscedar.com^
 ||awemwh.com^
@@ -52248,6 +52263,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cherniy2sviter11j.com^
 ||cherriesobituary.com^
 ||chgilks.com^
+||chichayen.com^
 ||chieving.club^
 ||chigrikecy.pro^
 ||chinacobweb.com^
@@ -52350,6 +52366,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||clnyonxgsvov.com^
 ||cloakroomobsceneredress.com^
 ||closiner.com^
+||closkeyrespond.com^
 ||cloudimagesa.com^
 ||cloudimagesb.com^
 ||cluethydash.com^
@@ -52542,6 +52559,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cryartarm.online^
 ||crylukzsthjz.com^
 ||cryptianainv.club^
+||crypto-news-world.club^
 ||csfkhqzegycmux.com^
 ||cshkgktv.com^
 ||csiasvapqrccq.com^
@@ -52566,6 +52584,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||culttolerant.com^
 ||cultwithough.info^
 ||cumgfzvm.com^
+||cupidonmedia.com^
 ||curedonswab.com^
 ||curriculture.com^
 ||cuterbond.com^
@@ -52599,6 +52618,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d24ak3f2b.top^
 ||d2850fafeb7.com^
 ||d2ab631af57.com^
+||d2e27d40f9.com^
 ||d2vybwwevieya6j.monster^
 ||d31ea41705818c9.com^
 ||d3b75cfc88a9.com^
@@ -52628,6 +52648,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dadsoks.com^
 ||dadsokz.com^
 ||dadspmz.com^
+||dafthulksyams.com^
 ||dagolor.pw^
 ||dailyinterventioncongestion.com^
 ||dainaith.net^
@@ -52689,6 +52710,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dearbrotherinlaw.com^
 ||deatheriwevo.site^
 ||debadu.com^
+||dec77d02f99.com^
 ||decademical.com^
 ||decisionediv.site^
 ||deckthroughout.com^
@@ -52737,6 +52759,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||deparabides.club^
 ||depictlicencegrandmother.com^
 ||depicturalki.club^
+||deplaisamment.xyz^
 ||depleastpo.club^
 ||depotshine.com^
 ||deprivationcorrectioncoats.com^
@@ -53010,6 +53033,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||e0663490cca0296f7.com^
 ||e0a42e1a21669b.com^
 ||e13085e58935e6.com^
+||e17ed2d3a9df0.com^
 ||e18a97eee94d0f2519.com^
 ||e1bl1t39c4.com^
 ||e1ed050f62.com^
@@ -53556,6 +53580,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||faracoon.com^
 ||farehitchlower.icu^
 ||faromen.online^
+||farteniuson.com^
 ||fascinatedpartialwheeled.com^
 ||fashional.pro^
 ||fashionapology.com^
@@ -53978,6 +54003,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ghtpoitovskyr.club^
 ||ghudns8sbb.buzz^
 ||ghvmjvkpapct.com^
+||gibeleftyeuro.com^
 ||giddyattendant.com^
 ||giecsodzyl.com^
 ||gievalonjing.club^
@@ -54011,6 +54037,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||glaksads.net^
 ||glareart.com^
 ||glargoun.uk^
+||glassmilheart.com^
 ||glauvoob.com^
 ||glazegha.com^
 ||gleambeverleydominate.com^
@@ -54637,6 +54664,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||intermediaryinvoluntaryflippant.com^
 ||internewsweb.com^
 ||interst12.com^
+||intimidatewearisomespecialist.com^
 ||intimidatingclinchwily.com^
 ||intimidatinggodlessketchup.com^
 ||intinuedbgyuj.site^
@@ -54759,6 +54787,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jbqhnzmvh.com^
 ||jchgcipyywszqt.com^
 ||jcqwzssqks.com^
+||jcwuzktevijp.com^
 ||jdrftaau.com^
 ||jdwxjtwue.com^
 ||jeansurroundwealthy.com^
@@ -54788,6 +54817,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jfxkxoicr.com^
 ||jfypfmew.com^
 ||jgbaoydldw.com^
+||jggqgavrqkudu.com^
 ||jgrroalqa.com^
 ||jhasisinvolvo.top^
 ||jhhlhneavuo.com^
@@ -55054,6 +55084,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||kqbigsdyqtdh.com^
 ||krdmqluvudizq.com^
 ||krkursist.com^
+||krouekal.com^
 ||krsccftmf.com^
 ||krsutcnex.com^
 ||krwasgyensttng.com^
@@ -56730,6 +56761,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pigeonscaptive.com^
 ||piginkdos.com^
 ||pignuwoa.com^
+||pigtisetdilqsi.com^
 ||pigtre.com^
 ||pigwinspath.icu^
 ||pilgrimary.club^
@@ -57756,6 +57788,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||scottagesyu.club^
 ||scottingflori.club^
 ||screatprisin.club^
+||screwdianasurgery.com^
 ||scripsjeermint.com^
 ||scrutchother.club^
 ||scswlgxttvekd.com^
@@ -58244,6 +58277,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||superintendsuckshaggy.com^
 ||superiorclueless.com^
 ||superjuryger.site^
+||superstriker.net^
 ||supertrackingz.com^
 ||supperopeningturnstile.com^
 ||supplegrassgrapes.com^
@@ -58288,6 +58322,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sxzdxiskr.com^
 ||sxzemwijeyqxg.com^
 ||sycbmucgctvha.com^
+||syjuyyfi.xyz^
 ||sympatientcu.club^
 ||symphoneupcom.site^
 ||syncwowsails.com^
@@ -58607,7 +58642,9 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||trafiq.stream^
 ||trafiq.win^
 ||trafyield.com^
+||traglencium.com^
 ||traighteri.club^
+||traistecbole.com^
 ||trampreliablediligence.com^
 ||transardugde.club^
 ||transientdeteriorate.com^
@@ -59109,6 +59146,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||viunypnvhcw.com^
 ||viurihkwo.com^
 ||vivdq.com^
+||vjkjjhbi.com^
 ||vjnpoelbrhd.com^
 ||vjsticdegj.com^
 ||vjsxvihazrwypb.com^
@@ -59207,6 +59245,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||vuaardbsbcppb.com^
 ||vujhqcemrpqj.com^
 ||vulbyhxsrxcdgo.com^
+||vulnerabletan.com^
 ||vulturechinamaternity.com^
 ||vuqufeqv.com^
 ||vutudm.com^
@@ -59493,6 +59532,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wordshipopa.club^
 ||woredi.com^
 ||workedlew.top^
+||workplacehorse.com^
 ||workshirty.club^
 ||worldmapd.online^
 ||worsterring.com^
@@ -66143,6 +66183,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cpvadvertise.com^$popup
 ||cpxdeliv.com^$popup,third-party
 ||crazyad.net^$popup,third-party
+||crypto-news-world.club^$popup
 ||curmaphow.club^$popup
 ||cutw.pro^$popup,third-party
 ||cyan92010.com^$popup
@@ -66795,6 +66836,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tnctrx.com^$popup
 ||tnkexchange.com^$popup
 ||tonefuse.com^$popup
+||top-performance.best^$popup
 ||topblockchainsolutions.nl^$popup
 ||topclickguru.com^$popup
 ||topcpmnetwork.com^$popup
@@ -72828,6 +72870,7 @@ mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
 f1i.com##.affiche
 smallseotools.com##.after_navbar
 surfwap.com##.ahblock2
+uploadvr.com##.ai-sticky-widget
 androidpolice.com,techporn.ph##.ai-track
 bizpacreview.com##.ai_widget
 livejournal.com##.allbanners
