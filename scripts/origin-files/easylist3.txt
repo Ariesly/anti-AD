@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104010218
+! Version: 202104020212
 ! Title: EasyPrivacy
-! Last modified: 01 Apr 2021 02:18 UTC
+! Last modified: 02 Apr 2021 02:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8486,6 +8486,8 @@ _mongo_stats/
 ||wrating.com^$third-party
 ||wt-eu02.net^$third-party
 ||wt-safetag.com^$third-party
+||wtastats.com^$third-party
+||wtastats.ro^$third-party
 ||wtp101.com^$third-party
 ||wts.one^$third-party
 ||wtstats.com^$third-party
@@ -13632,6 +13634,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||atrack.allposters.com^
 ||atrack.art.com^
 ||ats.alot.com^
+||att.com/libraries/
 ||att.com/scripts/satellite/prod/
 ||attachmate.com*/pv.aspx?
 ||audible.com^*/uedata/
@@ -21799,7 +21802,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||dropboxstatic.com/static/js/modules/clean/ux_analytics/$script,domain=dropbox.com
 @@||dw.cbsi.com/anonc.js$domain=giantbomb.com
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com
-@@||dynamicyield.com/api/$script,domain=croma.com|fendi.com|flytap.com|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
+@@||dynamicyield.com/api/$script,domain=adlibris.com|croma.com|fendi.com|flytap.com|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
 @@||dynamicyield.com/st?$script,domain=computeruniverse.net|croma.com|fendi.com|zalora.com.my|zalora.com.ph|zalora.sg
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||easyship.com/api/v1/track/$xmlhttprequest,domain=trackmyshipment.co
