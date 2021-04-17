@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104151349
+! Version: 202104170202
 ! Title: EasyPrivacy
-! Last modified: 15 Apr 2021 13:49 UTC
+! Last modified: 17 Apr 2021 02:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2906,10 +2906,12 @@
 /metrics/init?
 /metrics/metrics$domain=~spatineo.com
 /metrics/onload
+/metrics/ping?
 /metrics/rum
 /metrics/stat.
 /metrics/statsd/*
 /metrics/survey/*
+/metrics/tpi?
 /metrics/track/*
 /metrics/v1/frontend/*
 /metrics/vanity/?
