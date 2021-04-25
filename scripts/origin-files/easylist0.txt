@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7Bii4tdXVqR2OMDEcvhviA
-! Version: 202104240221
+! Checksum: 4J8qaq2yzcgksS/gphzjow
+! Version: 202104250231
 ! Title: EasyList China+EasyList
-! Last modified: 24 Apr 2021 02:21 UTC
+! Last modified: 25 Apr 2021 02:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1217,8 +1217,6 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||iupnlpd.cn^
-||cy-wz.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/d/*-*-*.ap|$script,third-party
@@ -2019,6 +2017,7 @@ ubmcmm.baidustatic.com
 ||cxfzw.cn^
 ||cxgh.net^
 ||cxxtv.com^$third-party
+||cy-wz.com^
 ||cyacc.com^
 ||cytcm.com^
 ||cz9k8b.top^
@@ -2420,6 +2419,7 @@ ubmcmm.baidustatic.com
 ||itchenjian.com^
 ||itechwall.com^$third-party
 ||itemccmod.com^
+||iupnlpd.cn^
 ||iwansf.com^
 ||iwwacgx.cn^
 ||iyoowi.com^
@@ -3472,6 +3472,7 @@ ubmcmm.baidustatic.com
 ||ysgsq.cn^
 ||ysjkbk.com^
 ||ysjwj.com^
+||yskanba.com^
 ||ysm.ezprice.net^$third-party
 ||ysnj74ed.com^
 ||ysyjg.com^
@@ -4744,7 +4745,6 @@ _yad_jsonp_
 ||alixixi.com/adsview/
 ||aliyuncs.com/ad/jd-smoofit-ad.jpg
 ||aliyuncs.com/ghdb.gif
-||aliyuncs.com/img/$domain=ddrk.me
 ||aliyuncs.com/public/v1/js/ad-config.
 ||aliyuncs.com/vss/haotu.js
 ||aliyuncs.com/wjy99re/
@@ -8633,7 +8633,6 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-bestcclm.com##.wp.cl > A
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -9571,7 +9570,6 @@ mtrend.cn###morecontent > .morecontent_next[style]
 wenxuecity.com###morehealth-banner-1
 nick18.com,niko18.com###mov > .content
 gd163.cn,itavcn.com,jmnews.com.cn,xt700.com###msg_win
-kudm.net###msn
 yahoo.com###my-adsHPSPON
 yahoo.com###my-adsMBAR
 pianhd.com###myCarousel
@@ -12842,6 +12840,7 @@ woniupai.net##.wnp-adbox
 tzfile.com##.wp-image-2738
 1point3acres.com##.wp.a_t
 141hongkong.com##.wp.at
+bestcclm.com##.wp.cl > a
 tropica.cn##.wp1.a_t
 cangjige.net##.wp[style="height:36px;padding-top:15px;"]
 tui18.com##.wp[style^="width:"]
@@ -13133,7 +13132,7 @@ yamibo.com##a[href*="xqsp.club"]
 1090ys2.com##a[href*="yb6277."]
 jiyingw.net##a[href*="zhidmai.com"]
 fxykx.com##a[href*="zyttx.com/"]
-ddrk.me##a[href="###"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
+ddrk.me,ddys.tv##a[href="###"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
 csdn.net##a[href="//gitbook.cn/new/gitchat/activity?utm_source=csdnblog1"]
 ikkdm.com##a[href="/exit/exit.htm"] > img[src="/images/d.gif"]
 ithome.com##a[href="/html/363216.htm"]
@@ -13254,7 +13253,7 @@ halitv.com##a[href^="https://www.halitv.com/api/go."]
 howbuy.com##a[href^="https://www.howbuy.com/advertisement/"]
 sojson.com##a[href^="https://www.sojson.com/ad/"]
 zhiboba.org##a[href^="igg."]
-ddrk.me##a[href^="javascript"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
+ddrk.me,ddys.tv##a[href^="javascript"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
 5118.com##a[id][href^="http"]:not([href*=".5118.com"]) > img
 iqiyi.com##a[id^="100000"]
 mse.360.cn##a[id^="banner"]
@@ -14620,7 +14619,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||orientaldaily.on.cc/js/oncc-ad.js
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=battlecats-db.com|chtoen.com|dizhishengcheng.com|doitwell.tw|ff14angler.com|haoweichi.com|logi.im|monnsutogatya.com|numberempire.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|wenxuecity.com|yabook.org
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=battlecats-db.com|chtoen.com|dizhishengcheng.com|doitwell.tw|ff14angler.com|haoweichi.com|it365.abctool.info|logi.im|monnsutogatya.com|numberempire.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|wenxuecity.com|yabook.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=youneed.win
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -16022,11 +16021,13 @@ $image,third-party,domain=258zw.com
 /assets/frameworks/types-*?plm=$script,third-party
 /c.js#pid=$script,third-party
 /CodeFiles/*.aspx?placeid=$third-party
+/mhw0/duniao/*
 /ojborn.so?$script,third-party
 /svr/*.aspx?placeid=$third-party
 /w1xhtml?$script,third-party
 /w1xhtml|$script,third-party
 /xxgg/app.js
+://*/*hsdsjTT/$script,third-party,xmlhttprequest
 ://*/1*modelBudai*.js$script,third-party,xmlhttprequest
 ://*modelBudai*.js?$third-party
 :10443/*/*-*-*.html$subdocument,third-party
@@ -17587,6 +17588,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||tukexiu.com^
 ||tunanchangban.com^
 ||tuoxintrade.cn^
+||tuwo-audio.cn^
 ||twodogegg.cn^
 ||txn5n0.cn^
 ||txshuku.la/js/
@@ -17649,6 +17651,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||wangqing7.top^
 ||wannuochongkong.com^
 ||wantezy.cn^
+||waterincloud.cn^
 ||wbiev.com^
 ||wechatpu.com^
 ||weidehuagong.com^
@@ -17664,6 +17667,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||wenbangsh.com.cn^
 ||wenjianzhongxin.com^*.gif
 ||wenlang.com^$third-party
+||wenqixiefu.cn^
 ||wenxuemi6.com^
 ||wenzhougy.cn^
 ||wervp.com^
@@ -17807,6 +17811,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||ybrex.cn^
 ||ybtianxi.com^
 ||ydfz.org^
+||yeyushe.cn^
 ||yfygs.cn^
 ||yg10x.cn^
 ||ygblogtag.cn^
@@ -20547,7 +20552,7 @@ fqsousou.com,kengso.com#@#.user-share
 /admatcherclient.
 /admatik.
 /admaven.
-/admax.$domain=~admax.cn|~admax.co|~admax.co.jp|~admax.eu|~admax.fi|~admax.hu|~admax.info|admax.jp|~admax.net|~admax.nu|~admax.org|~admax.se|~admax.shinobi.jp|~admax.us
+/admax.$domain=~admax.cn|~admax.co|~admax.co.jp|~admax.eu|~admax.fi|~admax.hu|~admax.info|~admax.jp|~admax.net|~admax.nu|~admax.org|~admax.se|~admax.shinobi.jp|~admax.us
 /admax/*
 /admaxads.
 /admcoreext.
@@ -39124,6 +39129,7 @@ _popunder+$popup
 ##.adb-728x90
 ##.adb-bottom-outer
 ##.adb-top
+##.adbTrkWt
 ##.adback
 ##.adbadge
 ##.adban-hold-narrow
@@ -48376,6 +48382,7 @@ _popunder+$popup
 ##.widget_ad_widget
 ##.widget_adace_ads_widget
 ##.widget_admanagerwidget
+##.widget_admania_adbuilder_widgets
 ##.widget_adrotate_widgets
 ##.widget_ads
 ##.widget_ads_entries
@@ -48479,6 +48486,7 @@ _popunder+$popup
 ##.wnIframeAd
 ##.wnMultiAd
 ##.wnad
+##.worldplus-ad
 ##.wp-block-tpd-block-tpd-ads
 ##.wp125_write_ads_widget
 ##.wp125ad
@@ -52271,6 +52279,7 @@ menstennisforums.com#@#.top_ads
 ||browsers.support^
 ||browsobsolete.com^
 ||brqvld0p.com^
+||brrcaqvz.com^
 ||brtsumthree.com^
 ||brucelead.com^
 ||bruceleadx.com^
@@ -69043,6 +69052,7 @@ menstennisforums.com#@#.top_ads
 ||extremefuse.com/out.php?$popup
 ||fakehub.com/tour/$popup
 ||fantasti.cc/ajax/gw.php?$popup
+||fapcandy.com^$popup,third-party
 ||fleshlight-international.eu^*?link=$popup,third-party
 ||fling.com/enter.php?$popup
 ||flirt4free.com/_special/pops/$popup,third-party
@@ -69411,6 +69421,7 @@ menstennisforums.com#@#.top_ads
 ||sdancelive.com/images/banners/
 ||sedo.cachefly.net^$domain=~sedoparking.com
 ||sermonaudio.com/images/sponsors/
+||services.fandom.com/knowledge-graph/affiliates/$xmlhttprequest
 ||sgtreport.com/wp-content/uploads/*Banner
 ||sharecad.org/content/banners/
 ||shtfplan.com/images/banners/
@@ -70115,6 +70126,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||hotpornfile.org/UIojIMf8ei.js
 ||hottubeclips.com/stxt/banners/
 ||hottystop.com/t33638ba5008.js
+||hqpornstream.com/pub/
 ||hypnohub.net/assets/hub.js
 ||idealnudes.com/tf40bbdd1767.js
 ||imagebam.com/files/tpd.png
@@ -70189,6 +70201,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||pornvideoq.com/zCpWaxDcYr.js
 ||pornxp.com/*.vtt
 ||pornxp.com/sp
+||pururin.io/assets/js/pop.js
 ||realgfporn.com/js/bbbasdffdddf.php
 ||redtube.com^$subdocument,~third-party
 ||rencontre31.fr/wp-content/themes/rencontre31/images/popupPerso/
@@ -73380,6 +73393,7 @@ japan-whores.com##.js-advConsole
 freeones.com##.js-track-event
 ts-tube.net##.js-uvb-spot
 zuzandra.com##.jx-bar
+hqpornstream.com##.lds-hourglass
 thehun.net##.leaderboard
 xxxpicss.com##.left-banners
 sextingpics.com##.leftMAIN
@@ -73444,7 +73458,7 @@ thefappening.wiki##.promo-2
 porntubevidz.com##.promo-block
 pornburst.xxx##.promo-gauleporno
 viptube.com##.promotion
-nakedtube.com,pornmaki.com##.promotionbox
+milf.dk,nakedtube.com,pornmaki.com##.promotionbox
 nuvid.com,nuvidselect.com##.puFloatLine
 dachix.com##.pub_right
 foxtube.com##.publi_pc
@@ -73496,7 +73510,7 @@ anyporn.com,fpo.xxx,pervertslut.com,pornoreino.com,sexpornimages.com,xbabe.com##
 tubepornclassic.com##.sponsor-container
 fux.com,pornerbros.com,porntube.com##.sponsored
 bravotube.net,camvideos.tv,dixyporn.com,hotmovs.com,smut6.com,tubepornclassic.com,vjav.com##.spot
-faptube.xyz,magicaltube.com##.spot-block
+faptube.xyz,hqpornstream.com,magicaltube.com##.spot-block
 qcock.com##.spot-thumbs
 homo.xxx##.spot.column
 drtuber.com##.spot_button_m
@@ -74107,6 +74121,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt|gamestar.de|los40.com
 @@||amazon-adsystem.com/e/ir?$image,domain=kasi-time.com
 @@||amebame.com/pub/ads/$image,domain=ameba.jp|ameblo.jp
+@@||an.yandex.ru/system/video-ads-sdk/adsdk.js$domain=5-tv.ru|armdb.org|gisher.org|peers.tv|tele-sport.ru
 @@||anandabazar.com/js/anandabazar-bootstrap/$script
 @@||api.friends.ponta.jp/api/$~third-party
 @@||asahicom.jp/ad/js/video/ytpfp.js$domain=asahi.com
@@ -74165,7 +74180,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||mjhobbymassan.se/r/annonser/$image,~third-party
 @@||netmile.co.jp/ad/images/$image
 @@||news24.jp/ad-navi/$domain=search.news24.jp
-@@||nintendo.co.jp/ring/assets_top/img/adv/$~third-party
+@@||nintendo.co.jp/ring/*/adv$~third-party
 @@||nnmclub.to/forum/misc/html/advert.html$~third-party
 @@||ntv.co.jp/ad-navi/$domain=search.news24.jp
 @@||player-feedback.p7s1video.net^$script,domain=kabeleins.de|sat1.de
@@ -74173,6 +74188,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||politiken.dk/static/$script
 @@||portalbici.es^*-advertisement.$~third-party,xmlhttprequest
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
+@@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
 @@||s0.2mdn.net/instream/html5/ima3.js$script,domain=tilt.fi
 @@||samplefan.com/img/ad/$image
