@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105290409
+! Version: 202105300338
 ! Title: EasyPrivacy
-! Last modified: 29 May 2021 04:09 UTC
+! Last modified: 30 May 2021 03:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3311,6 +3311,7 @@
 /Peermap/Log/*
 /pepperjam.js
 /perf-beacon-
+/perf-vitals_
 /perflog/*
 /perfmetrics.js
 /perfops-cc.
@@ -5553,6 +5554,7 @@ cgi-bin/counter
 .efeedbacktrk.com/$third-party
 .emltrk.com/
 .epicgames.com/O/
+.eventim.de/op/$image
 .flipboard.com/usage?
 .getblueshift.com/q/
 .hootsuite.com/trk?
@@ -5900,6 +5902,9 @@ _mongo_stats/
 ||g7923373400.co^
 ||g8121457735.co^
 ||g8319542070.co^
+||g8517626405.co^
+||g8715710740.co^
+||g8913795075.co^
 ||lltrck.com^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
@@ -7708,6 +7713,7 @@ _mongo_stats/
 ||predicta.net^$third-party
 ||predictivedna.com^$third-party
 ||predictiveresponse.net^$third-party
+||presage.io^$third-party
 ||prfct.co^$third-party
 ||prnx.net^$third-party
 ||pro6e.com^$third-party
@@ -9182,6 +9188,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gulliblecamp.com^$third-party
 ||haltingbadge.com^$third-party
 ||hammerhearing.com^$third-party
+||handyfireman.com^$third-party
 ||hearthorn.com^$third-party
 ||hilariouszinc.com^$third-party
 ||historicalbeam.com^$third-party
@@ -11826,6 +11833,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.solvemedia.com^
 ||pixel.sprinklr.com^
 ||pixel.tree.com^
+||pixel.videohub.tv^
 ||pixel.widgetly.com^
 ||pixel.wp.com^
 ||pixel.xmladfeed.com^$third-party
@@ -12458,6 +12466,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uplynk.com/session/ping/
 ||upt.graphiq.com^
 ||uptime.com/static/rum/$third-party
+||uriports.com/reports/$third-party
 ||usercentrics.eu/session/$image
 ||userexperience.thehut.net^
 ||users.techtarget.com^*/GetCookiesWithCallback?
@@ -15905,6 +15914,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tunein.com^*/log/
 ||turn.com/js/module.tracking.js
 ||turnsocial.com/track/
+||tvmaze.com/script.js
 ||tvshark.com/stats.js
 ||tw.i.hulu.com^
 ||tweakers.net/ajax/ping/
@@ -16201,6 +16211,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yuku.com/stats?
 ||yupptv.com/yupptvreports/stats.php^
 ||yyv.co/track/
+||z.cdp-dev.cnn.com^
 ||zap.dw-world.de^$image
 ||zap2it.com^*/editorial-partner/
 ||zappos.com/*.cgi?
@@ -25341,6 +25352,7 @@ ytics.disneyplus.com^
 @@||cm-beacon.nakanohito.jp/cm/comment_count/$xmlhttprequest
 @@||cm-widget.nakanohito.jp/cm/$script,stylesheet
 @@||cm-widget.nakanohito.jp/img/$image
+@@||dev.visualwebsiteoptimizer.com^$script,domain=internetorder.dominos.jp
 @@||disneyplus.disney.co.jp/view/vendor/analytics/$~third-party
 @@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
 @@||flipdesk.jp/wp/wp-content/themes/flipdesk/images/analytics3.png$image
