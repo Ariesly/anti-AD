@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106120144
+! Version: 202106130203
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Jun 2021 01:44 UTC
+! Last modified: 13 Jun 2021 02:03 UTC
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -5047,6 +5047,7 @@ _vpcookieconsent/
 ##.youtubelink
 ##.yt-fly-in
 ##.zergnetdiv
+##.zox-divs.zoxrel
 ##[original-title="Toggle to share your comment"]
 ##[title="Bookmark using any bookmark manager!"]
 ##[title="Email this page to a friend"]
@@ -21290,6 +21291,7 @@ _vpcookieconsent/
 ##.zocial-vimeo
 ##.zocial-youtube
 ##.zoom-social-icons-widget
+##.zox-post-soc-list
 ##.zox-post-soc-stat-list
 ##.zozo-social-icons
 ##.zozo_social_link_widget
@@ -25223,6 +25225,7 @@ _vpcookieconsent/
 ###cookiesAllow
 ###cookiesAllowingRequest
 ###cookiesApprobation
+###cookiesApproval:not(html):not(body)
 ###cookiesArticle
 ###cookiesBand
 ###cookiesBanner
@@ -29265,6 +29268,7 @@ _vpcookieconsent/
 ##.bwCookieMessage
 ##.bwp-cookie-bar
 ##.bx-info-cookie
+##.bx-main-cookie-policy
 ##.bxst-main-cookie-policy
 ##.by_cookie_policy
 ##.bycookies-container
@@ -33114,6 +33118,7 @@ _vpcookieconsent/
 ##.p-cookie-layer
 ##.p-cookie-prompt
 ##.p-cookiebar
+##.p-cookies
 ##.p-gdpr-modal
 ##.p-max-width_cookie
 ##.p-notification-bar-cookieconsent
@@ -46411,6 +46416,7 @@ rtp.pt###rtpgeralcookiecontent
 cmjornal.pt,jornaldenegocios.pt###termos
 xalingo.com.br###wrng-agrmnt
 sapo.ao##.bsu-v2-ntfs
+minhaconexao.com.br##.c-640a9a7c
 vodafone.pt##.ck-nudge-slim
 sinonimos.com.br##.clm
 macorlux.pt##.cookie
@@ -46462,6 +46468,7 @@ podrozerowerowe.info##.appriseOuter
 podrozerowerowe.info##.appriseOverlay
 likeni.ru##.bottom-popup
 tvguru.ru##.c-modal
+2x2tv.ru##.cook-web
 hashrating.com##.cookie
 advstreet.ru,glavred.info,skillbox.ru,unian.net##.cookies
 lisa.ru##.disclamer
