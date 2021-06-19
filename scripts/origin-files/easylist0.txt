@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MA3iMNRlQdS9tDZ8zMqnkA
-! Version: 202106180221
+! Checksum: W5gACjD3SQr+dCJnngJoKw
+! Version: 202106190211
 ! Title: EasyList China+EasyList
-! Last modified: 18 Jun 2021 02:21 UTC
+! Last modified: 19 Jun 2021 02:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1097,6 +1097,7 @@ _xiuno_com_ad/
 ##a[href*=".17yyba.com/"]
 ##a[href*=".222bz.com/"]
 ##a[href*=".41gw.com/"]
+##a[href*=".51gogogou.com"]
 ##a[href*=".613639.com/"]
 ##a[href*=".7wkw.com"]
 ##a[href*=".9xiazaiqi.com"]
@@ -1133,8 +1134,10 @@ _xiuno_com_ad/
 ##a[href*=".hth379.com/"]
 ##a[href*=".hth399.com"]
 ##a[href*=".hthty24.app"]
+##a[href*=".hthty27.app"]
 ##a[href*=".hthvip20.com"]
 ##a[href*=".htvip24.app"]
+##a[href*=".htvip27.app"]
 ##a[href*=".iziyo.com/"]
 ##a[href*=".liaochuo.com/"]
 ##a[href*=".mieseng.com/"]
@@ -1166,6 +1169,7 @@ _xiuno_com_ad/
 ##a[href*=".ybvip5741.vip"]
 ##a[href*=".youxi126.com"]
 ##a[href*=".youxi141.com"]
+##a[href*=".youxi142.com"]
 ##a[href*=".yuanmengbi.com/"]
 ##a[href*=".yyk2.com/"]
 ##a[href*=".zhongguohao123.com/"]
@@ -1442,6 +1446,7 @@ ubmcmm.baidustatic.com
 ||107.187.255.178^
 ||110160.com^$third-party
 ||111.175.219.*.js
+||11111fs.com^
 ||112.74.95.46^
 ||1133.cc^$third-party
 ||114.95.102.77^
@@ -2474,6 +2479,7 @@ ubmcmm.baidustatic.com
 ||hyz86.com^
 ||hz-sllace.com^
 ||hz3137.com^$third-party
+||hzdwjc.com^
 ||hzlm.cc^
 ||hzyyhz.cn^
 ||i.zhuoyaju.com^
@@ -2552,6 +2558,7 @@ ubmcmm.baidustatic.com
 ||jianmei123.com^
 ||jianpian.vip^$third-party
 ||jianxinshanghai.com^
+||jianyouling.com^
 ||jianyousj.com^
 ||jiasdart.cn^
 ||jiekc.com^
@@ -3058,6 +3065,7 @@ ubmcmm.baidustatic.com
 ||sdhzstone.net^
 ||sdjjr.com^
 ||sdqoi2d.com^
+||sdurhnd.com^
 ||sdxctr.com^
 ||sdxkdj.cn^
 ||sexy-more.com^$third-party
@@ -3251,6 +3259,7 @@ ubmcmm.baidustatic.com
 ||towers-shield.com^
 ||tpe163.com^
 ||trackingpro.pro^
+||trenhdg.com^
 ||trourted.pro^
 ||trys5.com^$third-party
 ||tsdlp.com^
@@ -3554,6 +3563,7 @@ ubmcmm.baidustatic.com
 ||xytom.com^
 ||xz6d.com^
 ||xzdchl.com^$third-party
+||xzpyjd.com^
 ||xzyituo.com^
 ||y0o1g.cn^
 ||yabo168.cc^$third-party
@@ -3628,6 +3638,7 @@ ubmcmm.baidustatic.com
 ||yqgjq.com^
 ||yqhlty.com^
 ||yqw88.com^
+||yrehdfer.com^
 ||ys2000.cdn.bcebos.com^
 ||ysgsq.cn^
 ||ysjkbk.com^
@@ -14220,6 +14231,7 @@ toolfk.com##wavy + div[style]
 toolfk.com##wavy ~ a
 weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(广告))
+weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-ad-tag:-abp-contains(广告))
 weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 x3cn.com#?#.commonDiv:-abp-has(.ad)
@@ -15799,6 +15811,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||js.shangxueba.com^
 ||js.ubaike.cn^
 ||js.yanyue.cn^
+||js1.haoge500.com^
 ||jsb.qianzhan.com^
 ||jscode.acg68.com^
 ||jscode.jbzj.com^
@@ -16282,6 +16295,7 @@ $image,third-party,domain=258zw.com
 .cn/37/$script,third-party
 .cn/39/$script,third-party
 .cn^*/1.js?r=
+_1baidu.js$script,third-party
 /0xhtml?$script,third-party
 /1*.html?|$script,third-party,xmlhttprequest
 /1*.xhtml?|$script,third-party,xmlhttprequest
@@ -16345,6 +16359,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||libs.baidu.com^$domain=138txt.com|18xs.org|1biqu.com|1kanshu.cc|230book.com|23hh.com|23txt.com|23wxx.com|258zw.com|266ks.com|27xsw.com|2baob.com|30sy.com|33yq.com|37zw.la|39shubao.com|3yt.com|477zw.com|52biquge.com|5ccc.tw|81zw.me|877zw.com|99mk.com|99shumeng.net|aixswx.com|aomolit.com|aoyuge.com|balingtxt.com|baoshuu.com|biqiuge8.com|biqubao.com|biqudu.tv|biquduo.com|biquge.com.cn|biquge.lu|biquge.tv|biquge11.com|biquge98.net|biqugecd.com|biqugego.com|biqugemm.com|biqugesc.com|biqusan.com|biquyi.com|bixia.org|bodekang.net|boluoxs.com|bookbao.org|botaodz.com|bqkan.com|bshuku.com|bswtan.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|clewx.com|damengzhu1.com|dashenxiaoshuo.com|day66.com|ddxs0.com|ddxsku.com|dushuge.net|farpop.com|fbxsw.com|gdbzkz.com|guaili.org|hatxt.com|hbfie.org|hehuamei.com|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hybiquge.com|iddwx.com|imiaobige.com|ishisetianxia.com|ixiatxt.com|ixs.la|jianlaixiaoshuo.com|jinshulo.com|jx.la|kkbiqu2.com|liewen.la|lindiankanshu.cc|liudatxt.com|loubiqu.com|lwtxt.net|lwxstxt.com|mhtwx.la|mubige.com|paoshu8.com|paoshuzw.com|pfwx.com|piaotianxs.com|ppskw.com|qbxs8.net|qianrenge.cc|qishusk.com|quge6.com|quledu.net|qushuba.com|rmxsba.com|shu008.com|shuhaiwu.com|shumil.co|siluke.tv|siluwx.org|sizhicn.com|skyzww.com|soxscc.com|tangsanshu.com|thxsw.com|ttzw.tv|tutengzw.com|txshuku.la|u33.me|uidzhx.com|v63xs.com|vipsk.org|wanwenhui.com|wenxuem.com|wrlwx.com|x23us.me|x81zw.com|xbiqugecc.com|xbiqugew.net|xbiquke.com|xbqge.net|xcmxsw.com|xdingdiann.com|xieyixs.com|xinshuhaige.com|xinxs.la|xs5200.com|xs98.com|xsbiqu.com|xsbiqugew.com|xsqishu.com|xsw55.net|xszww.com|xuanshu.com|xuehongxs.com|xyusk.com|yawenb.com|yikanxiaoshuoa.com|yq-888.com|yruan.com|yssm.info|yunxs.com|zbzw.la|zhnxcw.com|zhuaji.org|zmccx.com|zwdu.com|zzs5.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
+||losbateleros.com^
+||jzq2019.top^
+||gsqweb.cn^
+||keyand.xyz^
+||guoduand.cn^
 bxwx3.org###addiv3
 bxwx3.org###bdstatic
 55shuba.com###botDiv
@@ -18408,6 +18427,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||zizcy.com^
 ||zjksgl.com^
 ||zjlfqf.com^
+||zjxkdq.cn^
 ||zkba9.cn^
 ||zkwsdf.com^
 ||zln44.cn^
@@ -33014,6 +33034,7 @@ _popunder+$popup
 ###dfp-leaderboard-desktop
 ###dfp-middle
 ###dfp-middle1
+###dfp-rectangle1
 ###dfp-srp-leaderboard
 ###dfp-srp-mobile-top
 ###dfp-tlb
@@ -41592,6 +41613,7 @@ _popunder+$popup
 ##.advertisement-leaderboard
 ##.advertisement-leaderboard-lg
 ##.advertisement-nav
+##.advertisement-new
 ##.advertisement-other
 ##.advertisement-placeholder
 ##.advertisement-position1
@@ -50879,6 +50901,7 @@ javbix.com#@#.adsleft
 fodey.com,tuxpi.com#@#.adslot
 wg-gesucht.de#@#.adslot_blurred
 cutepdf-editor.com#@#.adtable
+mediaite.com#@#.adthrive
 absolute.com#@#.adtile
 smilelocal.com#@#.adtop
 brandexperience-group.com#@#.adv-banner
@@ -63263,6 +63286,7 @@ menstennisforums.com#@#.top_ads
 ||bqiovml.com^$third-party
 ||br.rk.com^$third-party
 ||brainient.com^$third-party
+||brainlyads.com^$third-party
 ||branchr.com^$third-party
 ||brand-display.com^$third-party
 ||brand.net^$third-party
@@ -67984,7 +68008,7 @@ menstennisforums.com#@#.top_ads
 ||cdnpark.com/scripts/js3.js
 ||cdnprk.com/scripts/js3.js
 ||cdnprk.com/scripts/js3caf.js
-||cdnpub.info^$third-party,domain=~iqoption.com
+||cdnpub.info^$third-party,domain=~iqbroker.co|~iqbroker.com|~iqoption.co.th|~iqoption.com|~tr-iqoption.com
 ||cdnservices.net/megatag.js
 ||centauro.net^*/banners/$third-party
 ||centralmediaserver.com^*_side_bars.jpg
@@ -74209,6 +74233,8 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||adjust.com/adjust-latest.min.js$domain=anchor.fm
 @@||adm.fwmrm.net^*/TremorAdRenderer.$object,domain=go.com
 @@||adm.fwmrm.net^*/videoadrenderer.$object,domain=cnbc.com|go.com|nbc.com|nbcnews.com
+@@||ads.adthrive.com/builds/$script,domain=www.mediaite.com
+@@||ads.adthrive.com/sites/$script,domain=www.mediaite.com
 @@||ads.dollartree.com/SneakPeek/$~third-party
 @@||ads.emarketer.com/adserve/;ID=176831;size=1170x117;setID=377294;type=json;$xmlhttprequest,domain=emarketer.com
 @@||ads.emarketer.com/adserve/;ID=176831;size=1170x117;setID=377297;type=json;$xmlhttprequest,domain=emarketer.com
@@ -74297,7 +74323,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||dnsleak.privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
 @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com|speedtest.net
-@@||doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|downdetector.com|epaper.timesgroup.com|formularywatch.com|gamespot.com|managedhealthcareexecutive.com|medicaleconomics.com|nbcsports.com|physicianspractice.com
+@@||doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|downdetector.com|epaper.timesgroup.com|formularywatch.com|gamespot.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nbcsports.com|physicianspractice.com
 @@||dwiextreme.com/banners/dwiextreme$image
 @@||edmodo.com/ads$~third-party,xmlhttprequest
 @@||einthusan.tv/prebid.js$script,~third-party
@@ -74325,7 +74351,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*RakutenShowtime$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/pagead/ads?*&description_url=https%3A%2F%2Fgames.wkb.jp$xmlhttprequest,domain=imasdk.googleapis.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|indy100.com|managedhealthcareexecutive.com|medicaleconomics.com|physicianspractice.com|theta.tv
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|physicianspractice.com|theta.tv
 @@||g2crowd.com/uploads/product/image/$image,domain=g2.com
 @@||glos.ac.uk/DataRepository/CourseDatabase/*/adv/$image,~third-party
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk

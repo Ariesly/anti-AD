@@ -284,6 +284,7 @@
 ||1100i.com^
 ||110160.com^$third-party
 ||110380d053f716c4.com^
+||11111fs.com^
 ||111g.yiqig.cn^
 ||112.126.66.58^*?mid=
 ||112.74.95.46^
@@ -5475,6 +5476,8 @@
 ||api.zhihu.com/commercial_api/real_time_launch_v2^
 ||api.zhuishushenqi.com/config/umeng^
 ||api16-access-sg.pangle.io/api/ad^
+||api2.coolapk.com/v6/feed/detail^$replace=/detailSponsorCard//
+||api2.coolapk.com/v6/feed/detail^$replace=/hotSponsorCard//
 ||api64.com^$third-party
 ||apicit.net^$third-party
 ||apiecelee.com^
@@ -5492,6 +5495,7 @@
 ||apkdo.com^
 ||apkonline.ru^$third-party
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
+||apm.tnet.nl^
 ||apmebf.com^$third-party
 ||apnarm.net.au^*/keep-up-with_
 ||apollofind.com^$third-party
@@ -7618,6 +7622,7 @@
 ||braincf.com^
 ||brainian.club^
 ||brainient.com^$third-party
+||brainlyads.com^$third-party
 ||braintb.com^
 ||brakesoutright.com^
 ||brameriez.xyz^
@@ -8537,7 +8542,7 @@
 ||cdnondemand.org^
 ||cdnopw.com^$third-party
 ||cdnproviders.net^
-||cdnpub.info^$third-party,domain=~iqoption.com
+||cdnpub.info^$third-party,domain=~iqbroker.co|~iqbroker.com|~iqoption.co.th|~iqoption.com|~tr-iqoption.com
 ||cdnquality.com^
 ||cdnrl.com^
 ||cdnspace.io^
@@ -15586,8 +15591,6 @@
 ||fuimg.com^$domain=678cn.com|cfzhushou.com
 ||fulfilledcompensatedelightful.com^
 ||fuligrs.cn^
-||fulisuo1.com^*.gif
-||fulisuo7.top^*.gif
 ||fullcircleinsights.com^$third-party
 ||fullmatchesandshows.com^$csp=script-src 'self' '*' 'unsafe-inline'
 ||fulltraffic.net^
@@ -16369,6 +16372,7 @@
 ||glam.com^*/log.act?
 ||glam.com^*?affiliateid=
 ||glamourmagazine.co.uk^*/LogPageView
+||glancecdn.net^$third-party
 ||glanceguide.com^$third-party
 ||glandtest.com^
 ||glareart.com^
@@ -16994,6 +16998,7 @@
 ||gsn.chameleon.ad^$~script
 ||gsniper2.com^$popup
 ||gsp1.baidu.com^
+||gsqweb.cn^
 ||gssdsj.com^
 ||gsspat.jp^$third-party
 ||gsspcln.jp^$third-party
@@ -17064,6 +17069,7 @@
 ||gunyangseamus.cam^
 ||gunzblazingpromo.com^
 ||guoad.com^
+||guoduand.cn^
 ||guominziben.com^
 ||guomob.com^
 ||guoshipartners.com^$third-party
@@ -18363,6 +18369,7 @@
 ||hz3137.com^$third-party
 ||hzbrcajp.cn^
 ||hzbxm.com^
+||hzdwjc.com^
 ||hzeetn.natalie.mu^
 ||hzhfhkj.cn^
 ||hzhongjianfund.com^
@@ -20050,6 +20057,7 @@
 ||jianpian.vip^$third-party
 ||jianshu.com^$replace=/\"show_ad\":true/"show_ad":false/
 ||jianxinshanghai.com^
+||jianyouling.com^
 ||jianyousj.com^
 ||jiaoben.eastday.com^
 ||jiaoben.ganji.cn^
@@ -20357,6 +20365,7 @@
 ||js.yulzm.com^
 ||js.zhuoyaju.com^
 ||js1.bju888.com^
+||js1.haoge500.com^
 ||js1.xbaixing.com^
 ||js2.hdzog.com^
 ||js88895.net^
@@ -20594,6 +20603,7 @@
 ||jzkapp.com^
 ||jzn360.cn^
 ||jzntxs.com^
+||jzq2019.top^
 ||jzrzpump.com^
 ||k-analytix.com^$third-party
 ||k.16vcd.com^$script
@@ -20783,6 +20793,7 @@
 ||key4web.com^*/set_cookie_by_referer/
 ||keyade.alltricks.fr^
 ||keyade.com^$third-party
+||keyand.xyz^
 ||keyboardinvolvedspacious.com^
 ||keydawnawe.com^
 ||keydot.net^
@@ -22343,6 +22354,7 @@
 ||loricalreach.info^
 ||lornardchr.club^
 ||lorybnfh.com^
+||losbateleros.com^
 ||losecounter.de^$third-party
 ||losingoldfry.com^
 ||losingoldfry.com^$popup
@@ -28449,7 +28461,6 @@
 ||pigtisetdilqsi.com^
 ||pigtre.com^
 ||pigwinspath.icu^
-||piimg.com^$domain=acgura.us|kisssub.org|lsjsoso.me|ref.so
 ||piimg.com^$domain=kisssub.org|lsjsoso.me
 ||pikzor.com^$third-party
 ||pilgrimary.club^
@@ -32368,6 +32379,7 @@
 ||sdrive.skoda-auto.com^
 ||sdsttt.com^
 ||sdtieta.com^
+||sdurhnd.com^
 ||sdweldrobot.cn^
 ||sdwsxf.africanmall.com^
 ||sdxctr.com^
@@ -37293,6 +37305,7 @@
 ||top100bloggers.com^$third-party
 ||top100webshops.com^$third-party
 ||top10sportsites.com^$third-party
+||top2099.com^
 ||top26.net^$third-party
 ||top267.com^
 ||top888.com^$third-party
@@ -38352,6 +38365,7 @@
 ||trendemon.com^$third-party
 ||trendgodforsaken.com^
 ||trends.newsmaxwidget.com^
+||trenhdg.com^
 ||trenpyle.com^$third-party
 ||tretionsp.top^
 ||trezor.efscle.com^
@@ -42056,6 +42070,7 @@
 ||xzipy.com^
 ||xzixbirtfo.com^
 ||xzlnews.info^
+||xzpyjd.com^
 ||xzqxz.net^
 ||xztms.com^
 ||xztqfj.dreamvs.jp^
@@ -42542,6 +42557,7 @@
 ||yqw88.com^
 ||yr9n47004g.com^
 ||yrdrtzmsmt.com^$third-party
+||yrehdfer.com^
 ||yrqwyn.cn^
 ||yrrsckr.cn^
 ||yrrudp.inven.co.kr^
@@ -43048,6 +43064,7 @@
 ||zjlfqf.com^
 ||zjo0tjqpm1.com^
 ||zjqymhsk.com^
+||zjxkdq.cn^
 ||zjzain.aboutyou.bg^
 ||zk.91post.com^
 ||zkba9.cn^
