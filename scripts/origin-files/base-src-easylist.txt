@@ -2319,6 +2319,7 @@
 ||a3p4.com^$third-party
 ||a3p4.net^
 ||a3pz36.cn^
+||a3vy69.cn^
 ||a3yqjsrczwwp.com^
 ||a40452.actonservice.com^
 ||a40554.actonservice.com^
@@ -2905,7 +2906,6 @@
 ||acxiomapac.com^$third-party
 ||acybrccvwoftb.com^
 ||ad-1258444056.cos.accelerate.myqcloud.com^
-||ad-apac.doubleclick.net^$popup
 ||ad-api.cnblogs.com^
 ||ad-arata.com^$third-party
 ||ad-back.net^$third-party
@@ -2915,7 +2915,6 @@
 ||ad-clicks.com^$third-party
 ||ad-delivery.net^$third-party
 ||ad-ebis.bookpass.auone.jp^
-||ad-emea.doubleclick.net^$popup
 ||ad-flow.com^$third-party
 ||ad-gbn.com^$third-party
 ||ad-img.diyidan.net^
@@ -3680,7 +3679,6 @@
 ||adrta.com^$third-party
 ||adrunnr.com^
 ||adrunnr.com^$popup
-||adrunnr.com^$third-party
 ||ads-for-free.com^$third-party
 ||ads-pixiv.net^$third-party
 ||ads-sg.tiktok.com^
@@ -3810,7 +3808,6 @@
 ||adsinstant.com^$third-party
 ||adsixmedia.fr^$third-party
 ||adskape.ru^
-||adskape.ru^$third-party
 ||adskeeper.co.uk^$domain=~dashboard.adskeeper.co.uk
 ||adskeeper.co.uk^$popup
 ||adskeeper.com^$popup
@@ -3853,7 +3850,6 @@
 ||adspruce.com^$third-party
 ||adspsp.com^$third-party
 ||adspyglass.com^
-||adspyglass.com^$third-party
 ||adspynet.com^$third-party
 ||adsqqclick.qq.com^
 ||adsrefundattempts.com^
@@ -5400,6 +5396,7 @@
 ||ap.dt.gl^
 ||ap72el.com^
 ||apac.wf.com^
+||apainter.cn^
 ||apartments.com^*/al.gif?
 ||apcerpharma.actonservice.com^
 ||apcinfo.motorolasolutions.com^
@@ -8550,7 +8547,7 @@
 ||cdnondemand.org^
 ||cdnopw.com^$third-party
 ||cdnproviders.net^
-||cdnpub.info^$third-party,domain=~iqbroker.co|~iqbroker.com|~iqoption.co.th|~iqoption.com|~tr-iqoption.com
+||cdnpub.info^$subdocument,third-party,domain=~iqbroker.co|~iqbroker.com|~iqoption.co.th|~iqoption.com|~tr-iqoption.com
 ||cdnquality.com^
 ||cdnrl.com^
 ||cdnspace.io^
@@ -9408,7 +9405,6 @@
 ||cm.baidu.com^
 ||cm.bilibili.com/admonitor^
 ||cm.bilibili.com/mgk/page^
-||cm.g.doubleclick.net^$popup
 ||cm.p4p.cn.yahoo.com^
 ||cm.passport.iqiyi.com^
 ||cm.redbull.com^
@@ -12544,6 +12540,7 @@
 ||doubleclick.com^$third-party
 ||doubleclick.ctfile.com^
 ||doubleclick.net^
+||doubleclick.net^$popup
 ||doubleclick.net^$third-party
 ||doubleclickbygoogle.com^
 ||doubledeepclick.com^
@@ -12898,6 +12895,7 @@
 ||dynsrvdea.com^
 ||dynsrvdea.com^$popup
 ||dynsrvtbg.com^
+||dynsrvtbg.com^$popup
 ||dynsrvtyu.com^
 ||dynsrvwer.com^$popup
 ||dyntrk.com^$third-party
@@ -16706,7 +16704,6 @@
 ||google.com^*/urchin_post.js
 ||google.com^*/viewerimpressions?
 ||googleadapis.l.google.com^$third-party
-||googleads.g.doubleclick.net^$popup
 ||googleadservices.com^
 ||googleadservices.com^$third-party
 ||googleadsl.com^$third-party
@@ -18970,7 +18967,6 @@
 ||inboxtag.com^$third-party
 ||incapabledroppingachievement.com^
 ||incapablepublicityvolatile.com^
-||incapdns.net^$third-party
 ||incarcererez.xyz^
 ||incentaclick.com^$third-party
 ||incentivesnetwork.net^$third-party
@@ -27551,6 +27547,7 @@
 ||ostensibledaytimeseaweed.com^
 ||ostensiblegrave.com^
 ||osurembra.top^
+||ot.jizy.cn^
 ||ot.obi-italia.it^
 ||ot.obi.at^
 ||ot.obi.ch^
@@ -29686,7 +29683,6 @@
 ||pub.network^$third-party
 ||pub.sheknows.com^
 ||pub1.cope.es^
-||pubads.g.doubleclick.net^$popup
 ||pubbirdf.com^
 ||pubdirecte.com^$popup
 ||pubdirecte.com^$third-party
@@ -32708,6 +32704,8 @@
 ||seo-master.net^$third-party
 ||seomonitor.ro^$third-party
 ||seomoz.org^$third-party
+||seon.io^$third-party
+||seondnsresolve.com^$third-party
 ||seoparts.net^$third-party
 ||separatedcoffin.com^
 ||separatesilver.com^$third-party
@@ -34995,7 +34993,6 @@
 ||static.criteo.net/flash^$third-party
 ||static.criteo.net/images^$third-party
 ||static.criteo.net/js/duplo^$third-party
-||static.doubleclick.net^$domain=youtube.com
 ||static.g.iqiyi.com^
 ||static.g.ppstream.com^
 ||static.gridsumdissector.com^
@@ -36089,8 +36086,6 @@
 ||syncwowsails.com^
 ||syndicate.payloadz.com^$third-party
 ||syndicatedsearchresults.com^$third-party
-||syndication.dynsrvtbg.com^$popup
-||syndication.exoclick.com^$popup
 ||syndication.jsadapi.com^
 ||syndicpop.com^
 ||syndopop.com^
@@ -37463,6 +37458,7 @@
 ||tout-sur-le-web.com^$third-party
 ||toutiao.com^*/user_log/
 ||toutiao.social^
+||toutiao.xn--fiqs8s^
 ||tovery.net^$third-party
 ||towardstic.club^
 ||towerfcu.actonservice.com^
@@ -40333,6 +40329,7 @@
 ||wamnetwork.com^
 ||wan.youku.com^
 ||wandara113.xyz^
+||wanderbj.top^
 ||wanfukang.cc^
 ||wangdaguanli.com^
 ||wangdaizao.com^
@@ -42500,6 +42497,7 @@
 ||yotta.scrolller.com^
 ||yottacash.com^
 ||yottos.com^$third-party
+||you6ka.cn^
 ||youa.net^
 ||youandyourwedding.co.uk^*/EAS_tag.
 ||youandyourwedding.co.uk^*/socialtracking/
