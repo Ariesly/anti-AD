@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106270132
+! Version: 202106272328
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Jun 2021 01:32 UTC
+! Last modified: 27 Jun 2021 23:28 UTC
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -3856,6 +3856,7 @@ _youtube_social_
 /component-CookieConsent.
 /consent-banner-
 /consent-dialog.
+/consent-layer-loader.
 /consent-management.js
 /consent-management/*
 /consent-manager.
@@ -4418,6 +4419,7 @@ _youtube_social_
 /MarkupCookieConsent/*
 /mb_cookies.
 /mediamus-cookie.
+/messagingNoTcfApi.
 /meta/cookie-
 /meWantCookies*.js
 /miocookie_
@@ -6122,6 +6124,7 @@ _vpcookieconsent/
 ##.cdev-subscribe-signup
 ##.channel__subscribe-widget
 ##.chive-newsletter
+##.chunk-newsletter
 ##.circ-signup-form
 ##.circulation-subscribe
 ##.cli-newsletter-placement
@@ -7303,6 +7306,7 @@ _vpcookieconsent/
 ##.yt-mailchimp-subscription-form-widget
 ##GANNETT-ATOMS-COMPONENT-NEWSLETTER-CTA
 ##[class^="NewsletterSubscribe"]
+##[class^="styles__NewsletterSub"]
 ##[data-module="newsletter-signup"]
 ##[data-target="#newsletter-modal"]
 ##[id^="mailchimp-signup-subscribe-"]
@@ -7659,6 +7663,7 @@ _vpcookieconsent/
 ###button-totop
 ###buttonScrollTop
 ###bw-scroll-top
+###c-backtotop-btn
 ###category-page-back-to-top
 ###cb-to-top
 ###cw_to_top
@@ -8768,6 +8773,8 @@ _vpcookieconsent/
 ###block-sharetext-custom-share-block
 ###block-sharethis-sharethis-block
 ###block-sharing-links
+###block-sharingbuttons-1
+###block-sharingbuttons-2
 ###block-simpleshare
 ###block-social
 ###block-social_badges-0
@@ -13170,6 +13177,7 @@ _vpcookieconsent/
 ##.dtm-footer-social-link
 ##.dv-social-media
 ##.dvNewDetailShare
+##.dw-social-icons
 ##.dy-social-btn-container
 ##.dyt-social
 ##.dzone-social-buttons
@@ -14146,6 +14154,7 @@ _vpcookieconsent/
 ##.footer-section__social-links
 ##.footer-share
 ##.footer-share-bar
+##.footer-share-bar-container
 ##.footer-share-bar-social
 ##.footer-share-bar-social-link
 ##.footer-share-button
@@ -17068,6 +17077,8 @@ _vpcookieconsent/
 ##.s-sns-link
 ##.s-social
 ##.s-social-item
+##.s-t-share-icon
+##.s-t-share-icon-c
 ##.s-twitter
 ##.s-youtube
 ##.s1-module-share
@@ -21333,6 +21344,7 @@ _vpcookieconsent/
 ##[class*="socialSection"]
 ##[class^="share-module_"]
 ##[class^="social_button_"]
+##[class^="styles__Socials-sc"]
 ##[class^="toggleBt__player_icon_share"]
 ##[data-bvo-type="share"]
 ##[data-ffx-event-category="Share content"]
@@ -36599,6 +36611,7 @@ fashionmagazine.com###kittycatfish_ad_content
 washingtonpost.com###knowmore
 doubleviking.com###kt_pane
 doubleviking.com###kt_toolbar_wrapper
+699pic.com###landlord
 scientificamerican.com###latestFloat
 cambridge.org###lawEU
 sulekha.com###lcf-outer
@@ -38032,6 +38045,7 @@ world-of-satellite.com##.guestwarn
 theonion.com##.h-reading
 tomshardware.com##.hService
 hpcwire.com##.halfColumnRight
+techraptor.net##.hamburger
 ecosalon.com,treehugger.com##.handle
 reddit.com##.happening-now-wrap
 healthcentral.com##.hb_ad
@@ -38781,6 +38795,8 @@ wired.com##.sponsored-stories-component
 blogcritics.org,labnol.org##.spread
 9gag.com##.spread-bar
 collinsdictionary.com##.spread_the_word
+699pic.com##.springtime-floatLink
+699pic.com##.springtime-pop
 the-line-up.com,thestack.com,xredmedia.com##.spu-box
 sandiegouniontribune.com##.sr-outer
 skysports.com##.ss-art-tools
@@ -39018,6 +39034,7 @@ xhamster.com##.wih-cams-thumb-widget
 xhamster.com,xhamster.desi,xhamster.one##.wih-cams-widget
 wildammo.com##.wild_ammo-tabs
 healthgrades.com##.wing
+699pic.com##.winpopbg
 theatlanticwire.com##.wire-to-go
 wetpaint.com##.wp-article-recommender
 washingtonpost.com##.wp-float-bar
@@ -39788,6 +39805,7 @@ forbes.com##.email-promo
 ocregister.com##.email-sign-up
 chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,msmagazine.com,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,trueachievements.com,truetrophies.com,twentytwowords.com,twr.asia,washingtonblade.com,waynedupree.com##.email-signup
 bhcourier.com##.email-signup-container
+townhall.com##.email-signup-inpage
 newrepublic.com##.email-signup__slim
 maritimeprofessional.com##.email-subscription
 nytimes.com##.email-updates
@@ -40147,6 +40165,7 @@ motherjones.com##.region-connect
 iai.tv##.register-reminder-wrapper
 hcanews.com##.registerNavText
 connectingafrica.com##.register_box
+triblive.com##.related
 newsweek.com##.remaining-articles > .container-fluid
 bildderfrau.de##.remodal-overlay[style="display: block;"]
 usnews.com##.reveal-modal
@@ -40266,8 +40285,9 @@ joekraus.com##.subscribe-links
 politicsweb.co.za##.subscribe-long
 merriam-webster.com##.subscribe-modal
 xconfessions.com##.subscribe-modal__frame
+metro.us##.subscribe-now-box
 mashable.com##.subscribe-options
-ganeshaspeaks.com##.subscribe-section
+ganeshaspeaks.com,philadelphiaherald.com##.subscribe-section
 mybroadband.co.za##.subscribe-submit
 medicaldaily.com##.subscribe-to
 hindustantimes.com##.subscribe-update
@@ -41502,6 +41522,7 @@ ebay.co.uk,ebay.com.au##.info > .share
 pcgscoinfacts.com##.info-connect
 timeout.com##.information
 nj.com##.inline-sidebar
+inquirer.com##.inq-share__option
 mapometer.com##.inright
 bossip.com,foreigndesknews.com##.insta
 bulova.com,cadenaazul.com,comicrelief.com,cwseed.com,dailystar.co.uk,filmfare.com,lapoderosa.com,peoplesweather.com,sassymamahk.com,triangleoffense.com##.instagram
@@ -41780,6 +41801,7 @@ stephaniemiller.com##.socai-widget
 konami.com##.social-account
 tgdaily.com##.social-actions
 marketplace.org##.social-bottom
+vaticannews.va##.social-btn
 voiceofsandiego.org##.social-cell
 dibujos.net,time.com##.social-container
 fujitsu.com##.social-content
@@ -42603,6 +42625,7 @@ civilsociety.co.uk##.announcement-banner
 commsec.com.au,soundcloud.com##.announcements
 cryptoquant.com##.ant-row-center
 leo.org##.app-footer-content
+crucial.com##.app-light > div[style*="fixed"]
 start.me##.app__message
 mubi.com##.appear-enter-done
 annualreviews.org##.ar-news-footer
@@ -43337,6 +43360,7 @@ monster.fr###interMsgsW
 bycontext.com###lcBar
 paperblog.fr###left-block
 fnac.com###link-top
+rennes-infos-autrement.fr###mailpoet_form-3
 onorient.com###mc_embed_signup
 solocalgroup.com###message-plugin
 ma-reduc.com###mr-scroll
@@ -47649,6 +47673,7 @@ danbolig.dk,finanzen.ch#@##cookie-overlay
 patient.info#@##cookie-policy
 flybe.com#@##cookie-policy-modal
 bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
+danskebank.fi#@##cookie-text
 lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-wrapper
 media.netflix.com#@##cookieAlert
 blog.google#@##cookieBar
@@ -47737,6 +47762,7 @@ rituals.com#@#.cookie-bar:not(body)
 egmont.com,okazii.ro#@#.cookie-bar:not(body):not(html)
 zeist.hu.nl#@#.cookie-block
 lg.com#@#.cookie-check
+danskebank.fi#@#.cookie-consent-banner
 zwijsen.nl#@#.cookie-consent-container
 zwijsen.nl#@#.cookie-consent-content
 artyferia.pl#@#.cookie-consent-show
@@ -48063,6 +48089,7 @@ yoigo.com#@#thor-cookies
 @@||files.bbci.co.uk^*/cookie-banner/$script,domain=bbc.co.uk
 @@||flowbox.io/wp-content/plugins/uk-cookie-consent/
 @@||gamersgate.com/js/cookieconsent.js$script,~third-party
+@@||gdpr-wrapper.privacymanager.io/gdpr/$script,domain=nettivuokraus.com
 @@||gearbest.com/static/dist/minjs/jcookie.js
 @@||geolocation.onetrust.com/cookieconsentpub/$script,domain=~cnbc.com
 @@||gizmochina.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js$~third-party
