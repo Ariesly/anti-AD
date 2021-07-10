@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: urid5KbawRGc+NilNqg2QA
-! Version: 202107090201
+! Checksum: 85BW4I7TsNz56BmioMqeKA
+! Version: 202107100201
 ! Title: EasyList China+EasyList
-! Last modified: 09 Jul 2021 02:01 UTC
+! Last modified: 10 Jul 2021 02:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1298,6 +1298,10 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||30mksr.cn^
+/api/v4/g?$script,third-party
+||njzyjy.cn^
+||hbzhenquan.cn^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/d/*-*-*.ap|$script,third-party
@@ -1403,6 +1407,7 @@ _xiuno_com_ad/
 :81/c/i.php?id=$script
 :81/s/i.php?id=$script
 :9001/code/
+_1_qqbr.js?$script,third-party
 ubmcmm.baidustatic.com
 |http://*.*.com/?q=*|*$script,third-party
 |http://1*.*.*.*/show.js|$script,third-party
@@ -1712,6 +1717,7 @@ ubmcmm.baidustatic.com
 ||860010.com^
 ||88-baidu.com^
 ||887251.com^
+||887591.com^
 ||88818122.cn^
 ||8881919.cc^
 ||88cpc.com^$third-party
@@ -9527,6 +9533,7 @@ js0573.com###gotopl
 js0573.com###gotopr
 18183.com###gsBtn
 05sun.com,cncrk.com,xdowns.com###gsxza
+121xz.com###gsxzdz
 cnr.cn###gtop00
 doubibackup.com###guangg_image
 jirou.com###guanggao
@@ -10635,6 +10642,7 @@ douyu.com##.adcontainer
 fang.com,soufun.com##.add1200
 chinanews.com##.add3
 chinanews.com##.add4
+x6g.com##.addd
 bnmanhua.com,manhua123.net##.addg
 kuaihou.com##.address_like
 ck101.com##.adfixWp
@@ -11016,6 +11024,7 @@ qqxiazai.com##.bt_abtn2
 bt.cn,lotour.com##.btad
 163.com##.btm-ad
 aizhan.com##.btn
+121xz.com##.btn + .btn
 xitongzhijia.net##.btn-dl_swift
 xitongtiandi.net##.btn-dr
 firefox.com.cn,firefoxchina.cn##.btn-email-show + p
@@ -11046,6 +11055,7 @@ baidu.com##.c-result[data-tpl="adv_wenku_fc"]
 suning.com##.c2c-recommend
 myexception.cn##.c_a_3
 cnblogs.com##.c_ad_block
+121xz.com##.c_money
 kdnet.net##.c_spread
 lenniu.com##.caClass
 hao.360.cn##.cangbao_redbags
@@ -11622,7 +11632,7 @@ yxdown.com##.gsdown
 33lc.com,cncrk.com,kxdw.com##.gsdt
 jb51.net##.gsdw
 vpsdx.com##.gsfha3-form
-42xz.com,kuhou.com,pcsoft.com.cn##.gsxz
+42xz.com,aiweibk.com,kuhou.com,pcsoft.com.cn##.gsxz
 yxdown.com##.gsxz_ydw
 pcsoft.com.cn##.gsxzdl
 vpsdx.com##.gthfdsa
@@ -11975,6 +11985,7 @@ ifeng.com##.leftpopad
 lywww.com##.lianmengclass
 hao.360.com##.licai-right
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.life_helper
+aiweibk.com##.lili
 lenovo.com.cn##.link-ad
 xiaoyun.com##.link-ads
 baidu.com##.link-banner
@@ -16297,6 +16308,7 @@ $image,third-party,domain=258zw.com
 .cn/39/$script,third-party
 .cn^*/1.js?r=
 /0xhtml?$script,third-party
+/1(csss?r=$script,third-party
 /1*.html?|$script,third-party,xmlhttprequest
 /1*.xhtml?|$script,third-party,xmlhttprequest
 /1.css?r=$script,third-party
@@ -16997,6 +17009,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||dodolive.cn^
 ||dodomo.info^
 ||dofkfhv.cn^
+||doujl.cn^
 ||doulaihai.top^
 ||downcdn.top^
 ||dpbyc.com^
@@ -17656,6 +17669,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||mhi9da.cn^
 ||miaos11.com^
 ||micreative-china.cn^
+||miniholiday.cn^
 ||mitjg.xyz^
 ||mituir.xyz^
 ||miyaluorenliziuan.cn^
@@ -17821,6 +17835,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||pppxia.com^
 ||pqezdo.cn^
 ||prazpf.cn^
+||prfuxl.xyz^
 ||prpcoin.com^*.gif
 ||pstatp.com^$domain=feisucn.com
 ||ptgezc.com^
@@ -18406,6 +18421,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||yooread.net/ak
 ||yosjob.cn^
 ||you6ka.cn^
+||youlejia.xyz^
 ||youngalsobeautiful.com^
 ||youpukeji.cn^
 ||youshouge513.cn^
@@ -18480,6 +18496,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||zhanjiangletian.com^
 ||zhanlan5.cn^
 ||zhaoyafang.cn^
+||zhcps.cn^
 ||zhekoudajie.com^
 ||zhenben.cc/2000/
 ||zhengzhoupengbo.com^
@@ -18976,7 +18993,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||sinajs.cn/open/analytics/js/suda.js$domain=weibo.com|~widget.weibo.com
 @@||sinajs.cn/open/api/js/wb.js$domain=sc.sina.com.cn
 @@||sogou.com/pv.gif?*&stype=showskinpanel
-@@||sohu.com/cityjson$domain=114shouji.com|51credit.com|castech.com|eduyun.cn|jdboshi.com|jialingmm.net|lcm88.com|meiju11.com|mop.com|platinum-pen.com.cn|shouji.com.cn|skk.moe|vivo.com.cn|yxdm.me
+@@||sohu.com/cityjson$domain=114shouji.com|51credit.com|castech.com|eduyun.cn|ems.com.cn|jdboshi.com|jialingmm.net|lcm88.com|meiju11.com|mop.com|platinum-pen.com.cn|shouji.com.cn|skk.moe|vivo.com.cn|yxdm.me
 @@||sohu.com/integration-api/mix/region/*&refer=http
 @@||soufunimg.com/count/uvbforpc.js
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
@@ -44325,6 +44342,9 @@ _popunder+$popup
 ##.gad-container
 ##.gad-right1
 ##.gad-right2
+##.gad300x600
+##.gad336x280
+##.gadContainer
 ##.gad_container
 ##.gads300x250
 ##.gads_cb
@@ -73271,7 +73291,7 @@ probuilds.net##a[class^="dl-blitz-"]
 msn.com##a[href*=".booking.com/"]
 beforeitsnews.com,in5d.com##a[href*=".hop.clickbank.net"]
 limetorrents.info##a[href*=".php"]
-techpowerup.com##a[href*=".thx"][target*="_blank"]
+techpowerup.com##a[href*=".tpu"][target*="_blank"]
 whatismyreferer.com##a[href*="/?offer_id="]
 itweb.co.za##a[href*="/adclick.php?"]
 igorslab.de,landline.media,sundayworld.co.za,theroanokestar.com,visualcapitalist.com##a[href*="/linkout/"]
@@ -75170,6 +75190,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||phncdn.com/www-static/js/mg_utils-$script
 @@||phncdn.com/www-static/js/modal-tipping.js$script
 @@||phncdn.com/www-static/js/modelhub/$script
+@@||phncdn.com/www-static/js/next-video.js$script
 @@||phncdn.com/www-static/js/notified-modal.js?$script
 @@||phncdn.com/www-static/js/ph-networkbar.js$script
 @@||phncdn.com/www-static/js/phub-nojquery.js$script
@@ -75286,6 +75307,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||pornhubcom/video_selector/$domain=pornhub.com|pornhubthbh7ap3u.onion
 @@||pornhubcommunity.com/cdn_files/images/$image
 @@||pornhublive.com/blacklabel/bl.client.min.js|$script
+@@||pornhubthbh7ap3u.onion/video/$xmlhttprequest
 @@||pornmd.com/resources/js/search_widget.js$script
 @@||rdtcdn.com/hls/media/videos/$media,other,xmlhttprequest,domain=redtube.com
 @@||rdtcdn.com/hls/videos/$xmlhttprequest,domain=www.redtube.com
