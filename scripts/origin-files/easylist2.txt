@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107170153
+! Version: 202107180119
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Jul 2021 01:53 UTC
+! Last modified: 18 Jul 2021 01:19 UTC
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -707,6 +707,7 @@ _backToTop.
 -push-notification/$domain=~github.com
 -push-notifications/
 /amp-user-notification-
+/amp-web-push-
 /av/push-
 /build/push.js
 /checkPush.js
@@ -7316,6 +7317,7 @@ _vpcookieconsent/
 ##.wp_email_capture_widget
 ##.wpd-sbs-title
 ##.wpdev-newsletter-signup
+##.wpdiscuz-subscribe-bar
 ##.wrap-newsletter
 ##.wrapper-button-newsletter
 ##.wrapper_suscribe_home
@@ -17739,6 +17741,7 @@ _vpcookieconsent/
 ##.shareSocialArticle
 ##.shareSocialButtons
 ##.shareSprite
+##.shareSticky
 ##.shareSubscribe
 ##.shareTW
 ##.shareText
@@ -40816,6 +40819,7 @@ independent.co.uk##.inline-prompt
 gayemagazine.com##.lvMF7
 bing.com##.opal_serpftrc
 india.com##.open-app
+hindustantimes.com##.openAppButton
 sportskeeda.com##.sidebar-app-download
 imgur.com,sowetanlive.co.za##.smartbanner
 inquisitr.com##.stay-in-touch
